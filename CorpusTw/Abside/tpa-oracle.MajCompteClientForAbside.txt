@@ -1,0 +1,899 @@
+00800898001398000027307980013                                      ACHOURI LYES                                             08 LOT BT 17 FOUKA TIPASA 
+00800898001398000027404980013                                       RAACHE  ALI                           29 LOGT BT 01 N? 06  KHEMISTI VILLE  TIPAZA 
+00800898001398000027501980013                           LADJEREM MOHAMED LAMINE                                        61 ROUTE NERF BOUZAREAH  ALGER 
+00800898001398000027695980013                               KHALDOUN NOUREDDINE                                     CITE MAHIEDDINE BT A N?46   ALGER 
+00800898001398000027792980013                                SELLAMI    MOHAMED                                    20, RUE ABDELAZIZ  MOUZAOUI  ALGER 
+00800898001398000027889980013                                     BOUHOUS SAMIR                                                        LOT 662 BARAKI 
+00800898001398000027986980013                                  FERKOUS   MOUNIR                                  05 IMPASS VAL FLEURI  EL BIAR  ALGER 
+00800898001398000028083980013                               HAMMOUDI ABDELHAMID                                         13, RUE AHCENE KHEMISSA ALGER 
+00800898001398000028180980013                                  NAIT YAHIA FOUZI                                        CITE DES PTT N?54A HYDRA ALGER 
+00800898001398000028277980013                                    LADJICI MADJID                              CITE 420 LOGTS BT 01 N?08 EL HAMIZ ALGER 
+00800898001398000028374980013                                  OURAHMOUNE IDRIS                               75, LOTISSEMENT MERIDJA  SAOULA   ALGER 
+00800898001398000028568980013                                   HADDAD MUSTAPHA                              CITE ABANE RAMDANE BT F AIN BENIAN ALGER 
+00800898001398000028665980013                          MAHOUCHE NEE NOUI MALIKA                                       21, CHEMIN AREZKI YACEF   ALGER 
+00800898001398000028762980013                                   FISSAH MUSTAPHA                                       33, RUE MOHAMED TAZGHART  ALGER 
+00800898001398000028956980013                                    KESBIA  HOCINE                    CITE AIN NAADJA BT 6 N?07 GUE DE CONSTANTINE ALGER 
+00800898001398000029053980013                                    ACHOURI BRAHIM                                              LOT 187 BARAKI EST ALGER 
+00800898001398000029344980013                                     LAROUI MADANI                            14, RUE SIDI BOUMEDIEN  OUED KORICHE ALGER 
+00800898001398000029441980013                                    LAMRI MUSTAPHA                                                 CITE AADL BAB EZZOUAR 
+00800898001398000029538980013              C.O.S ACE.NLE DE DEVELOPPEMENT.P.M.E                               34 MOHAMED BELKACEMI LES ANNASERS ALGER 
+00800898001398000029732980013                                      ANNANE   ALI                                     CITE 160 LOG BT 5 N?4 SIDI MOUSSA 
+00800898001398000029829980013                    ORCHESTRE SYMPHONIQUE NATIONAL                                               13, AVE DU 1ER NOVEMBRE 
+00800898001398000029926980013                     OFFICE NL DES DROITS D'AUTEUR                                     49, RUE HAMLA ABDERAZAK BOLOGHINE 
+00800898001398000030023980013                              OFFICE RIADH EL FETH                                                 BP N? 385 EL MOURADIA 
+00800898001398000030120980013              ACE ALG POUR LE RAYONNEMENT CULTUREL                                  CHEMIN KECHAR OMAR DAR A.LATIF HAMMA 
+00800898001398000030217980013                         THEATRE NATIONAL ALGERIEN                                              10 RUE HADJ OMAR - ALGER 
+00800898001398000030314980013              ENSEM NL ALGER  DE MUSIQUE ANDALOUSE                                                 BD AMARA RACHID B.E.O 
+00800898001398000030411980013          ACE NLE DE GES DES REAL DES GDS PRJ CULT                                             19,AVE SOUIDANI BOUDJEMAA 
+00800898001398000030508980013                                       HAMID HANIA                                      260 RUE LAMARI MOHAMED BOUZAREAH 
+00800898001398000030605980013                                    ZOUAMBIA SOUAD                         CITE 1306 LOGTS BT 29 N? 1 GUE DE CONSTANTINE 
+00800898001398000030702980013                                   BOUCHERIT BESMA                                107 AVENUE HAMID KEBLEDJ. RAIS HAMIDOU 
+00800898001398000030896980013                                       MAGUI NADIA                                          02 RUE MOHAMED OUDELHA B.E.O 
+00800898001398000030993980013                                       ABDOUS AMEL                                         04 RUE HAMI ABDERAHMANE B.E.O 
+00800898001398000031187980013          OFF NL DE GES ET D'EXP DES BIEN CUL PRO                                 DAR AZIZA, 02, PLACE BEN BADIS CASSBAH 
+00800898001398000031284980013              FESTIVAL CULTUREL INTERNA DU THEATRE                                                   10 AVNUE HADJ AMMER 
+00800898001398000031381980013          OFFICE NL DE LA CULT ET DE L'INFORMATION                                               01, PLACE MAURICE AUDIN 
+00800898001398000031478980013             C.O.S ECO. NLE.SUP.SCIENCE.TECH.SPORT                                                 BP N?71 EL BIAR 16030 
+00800898001398000031575980013                     C.O.S CONSEIL CONSTITUTIONNEL                                             19 B4 11 DECEMBRE EL BIAR 
+00800898001398000031672980013              SALON INTERNATIONAL DU LIVRE A ALGER                                                        PINS MARITIMES 
+00800898001398000031769980013                                AKILI   MAHIEDDINE                                            18, RUE MOHAMED BIHI ALGER 
+00800898001398000031866980013                                 C.O.S - A.T.R.S.T                                          BP 62 AV PASTEUR HACENE BADI 
+00800898001398000031963980013                                  BENAYACHE MALIKA                                        49, RUE MAHMOUD ROUNI RUISSEAU 
+00800898001398000032157980013                                  AZOUGUI   SOUMIA                                   08, RUE OUSSAADI ABDERAHMANE CASBAH 
+00800898001398000032254980013                                   BEDRI   NASSIMA                                                   03, PLACE PORT SAID 
+00800898001398000032351980013                                  BALAMANE   SOUAD                                         AADL 1 BT 33 N?02 BAB EZZOUAR 
+00800898001398000032448980013                                    BENMAOU HAKIMA                                11, RUE AMAR QUARTI SCALA OUED KORICHE 
+00800898001398000032545980013                                 BENNOUR   DJAMILA                                         CITE EL MERDJA I N? 155 BARKI 
+00800898001398000032642980013                                BOUDJENANA   AFFAF                                          LOGT F ENS/09 DIAR ELKHELOUA 
+00800898001398000032739980013                                  BOUHAFS   FARIDA                                        39 RUE ALI SAADI  BECH DJERRAH 
+00800898001398000032933980013                             HAMDOUD   FATMA ZOHRA                                   BP 70/A AIN NAADJA HOURI BOUMEDIENE 
+00800898001398000033224980013                             LADJROUD   ABDESSELEM                                           LYCEE MOUHOUSSE B.EL KIFENE 
+00800898001398000033321980013                            MAHMOUDI   CHEMSEDDINE                                     16, RUE DES FRERES BENACEUR ALGER 
+00800898001398000033418980013                                  OURAGUI   SORAYA                                            1 RUE HAMOUD BENZINE ALGER 
+00800898001398000029247980013                                      MAZIZ HOCINE                                   12, RUE AHCENE ALIANE  B.E.O  ALGER 
+00800898001398000033030980013                                  KERFALI   SALIMA                                     30.RUE HANIN BEL AIR BACH DJERRAH 
+00800898001398000034776980013           C.O.S ECOLE SUPERIEUR DE LA MAGISTRATUR                                    BP 302 BEN AKNOUN RP 16306  ALGER  
+00800898001398000037977980013           C.O.S INS TECH  CUL MARAICHERES & INDST                                                 BP 50  STAOUELI ALGER 
+00800898001398000040014980013                               BENYAHIA ABDERRAZIK                                        CITE NACIM Bt G N?62 BOUZAREAH 
+00800898001398000043409980013             C.O.S ECOLE NLA SUPERIEUR D'AGRONOMIE                                            AVE HACEN BADI  EL HARRACH 
+00800898001398000049229980013                                  KHEMISSA NASSIMA                                      05 RUE KAHINA RAIS HAMIDOU ALGER 
+00800898001398000052236980013                           TAZEROUTI ABDERRAHMANE                          RUE 24 , CITE NADOUR N ?11 EL MADANIA -ALGER- 
+00800898001398000057086980013                           NAIT AMOR MOHAMED FOUAD                                     CITE MIMOSA Bt 01 N?193- STAOUELI 
+00800898001398000059511980013                                   MEKHZER DJAMILA                                         12 RUE ASSELAH HOCINE-ALGER-  
+00800898001598000007024980015                        REGIE DEPENSE DE L'A.N.R.H                                      40, RUE MOHAMEDI BIR MOURAD RAIS 
+00800898001398000029635980013                                  BOUSSOUALEM  ALI                                01, PLACE MOHAMED LOUNIS  B.E.O  ALGER 
+00800898001398000032060980013                                     BRIK    ZOHRA                                   LOTISSEMENT COMMUNAL G17 N?19 D.E.B 
+00800898001398000034582980013                               OUGUERROUDJ OUERDIA                                28 RUE DES FRERES ACHACH  B.E O  ALGER 
+00800898001398000036425980013            C.O.S COM NLE CONS PROM PROT DROIT HOM                                                PALAIS DU PEUPLE ALGER 
+00800898001398000038365980013                    C.O.S CENTRE NL DE TOXICOLOGIE                                  ROUTE DE PETIT STAOUALI .DELY BRAHIM 
+00800898001398000040208980013           FESTIV CULT NL DE LA PHOTOGRAPHIE D'ART                                              25, RUE LARBI BEN M'HIDI 
+00800898001398000041954980013                                      KHELIFI ASMA                             CITE DIAR EL KHOLOUA BT C N?179 BOLOGHINE 
+00800898001398000044088980013          C.O.S  ECLE NLE SUP JOURNLI SCES DE INFO                                 11.CHEMIN DOUDOU MOKHTAR -BEN AKNOUN- 
+00800898001398000046610980013                    OFFICE DU VILLAGE DES ARTISTES                                                         ZIRALDA ALGER 
+00800898001398000047871980013                                 BENRAHMANI GHALIA                                      30 RUE RACHID KEOUACHE BEO ALGER 
+00800898001398000050587980013                                     TOUATI SAMIHA                                   RUE BOUSHAKI ''E'' n?36 BAB EZZOUAR 
+00800898001398000053303980013                                     BOUZIT  SAMIA                               01 RUE AHMED HAMOUDA .EL CASBAH -ALGER- 
+00800898001398000055728980013                                   BELKADI  YOUCEF                                  08 RUE MOKRANE CHAABI -ALGER CENTRE- 
+00800898001398000058153980013                                  BERROUHOU HALIMA                                       83 RUE MON PLISON OUED KOREICHE 
+00800898001398000060384980013          COS / MUS.PUB.NL.D'ART.MODER.ET CONTEMPO                                       25 RUE LARBI BEN M'HIDI -ALGER- 
+00800898001598000002368980015                 compte cloture balance a a/c CNPM                                                                       
+00800898001598000003920980015                          REGIE DEPENSE DE L'O.N.T                                       02, RUE ISMAIL KERRAR PORT SAID 
+00800898001598000005860980015                            REGIE DEPENSE DU C.A.N                                38, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001398000033515980013                                    SAADI   FATIHA                               CIT? LA MONTAGNE BLOC A.04.03. BOUROUBA 
+00800898001398000033612980013                                    SAHLI   HAMIDA                                       142.RUE SAIDI AHMED B.EL KIFENE 
+00800898001398000033709980013                                  ZIGADI   RACHIDA                                 66, BD MABROUK BELEHCENE RAIS HAMIDOU 
+00800898001398000033806980013                             NECHAB  DRAIDI FATIHA                                             19, RUE BAB AZZOUN CASBAH 
+00800898001398000033903980013                               C.O.S   M.P.N.E.M.C                                 12 RUE DES FRERES MECHERI BASE CASBAH 
+00800898001398000034097980013                              FILALI YAHI  NASSIMA                                               04 BD VICTOR HUGO ALGER 
+00800898001398000034194980013                                      NADIR  RAOUF                                   COOP EL IZDIHAR N?2 GARIDI II KOUBA 
+00800898001398000034291980013              R.D  TLEMCEN CAP CULT ISLAMIQUE 2011                                             08 RUE SEMAOUS AMAR H.DEY 
+00800898001398000034388980013             C.O.S/MUSEE PUBLIC.NTL.DES ANTIQUITES                                                 177, BD KRIM BELKACEM 
+00800898001398000034679980013             C.O.S OFFICE NATIONAL DES STATISTIQUE                                        08 ET 10, RUE DES MOUSSEBILINE 
+00800898001398000034873980013                             C.O.S   E.N.S.S.M.A.L                              BP 19, CAMPUS UNIVERSITAIRE BOIS DES CAR 
+00800898001398000034970980013                 C.O.S ECOLE NLE DES TRANSMISSIONS                                             16 RUE HALES SAID MORADIA 
+00800898001398000035067980013                C.O.S CENTRE DES ARCHIVES NATIONAL                                38, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001398000035164980013                        C.O.S PALAIS DE LA CULTURE                                                  PALAIS DE LA CULTURE 
+00800898001398000035261980013                 C.O.S ECO DES HAUTES ETU COMMERC                                   11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001398000035358980013                  C.O.S MUS.NL.ARTS.TRAD.POPULAIRE                               09, RUE MOHAMED AKLI MALEK BASSE CASBAH 
+00800898001398000035455980013          COS/ECOLE NLE DES PERSONNELS DES GREFFES                       BP 61 Annexe du 05 Juillet Bab Ezzouar -ALGER-  
+00800898001398000035552980013          C.O.S OFFICE NL ENSEIGM ET FORM ? DISTCE                                                43 RUE BENCHENEB ALGER 
+00800898001398000035649980013               C.O.S AGENCE NL DU CADASTRE (SIEGE)                                            27, RUE M'HAMED BOUCHAKOUR 
+00800898001398000035746980013           C.O.S CTRE D'AP ET MAINT  EQUIP MOY DED                                                          DOSSIER VIDE 
+00800898001398000035843980013          C.O.S INSTITUT NL SUP DE PECHE ET AQUACU                                         03 RUE DE L' ALN  ALGER PORT  
+00800898001398000035940980013                         C.O.S INFS/STS AIN BENIAN                                            CITE BELLE VUE AIN BENIANE 
+00800898001398000036037980013           C.O.S OFFICE NL DE SIGNALISAT  MARITIME                                       06, Bd COLONEL AMIROUCHE, ALGER 
+00800898001398000036134980013                           C.O.S AGENCE NL DU SANG                                             15 ROUTE DU KADDOUS ALGER 
+00800898001398000036231980013          C.O.S OFFICE NL DES OEUVRES UNIVERSITAIR                                RESID UNIV TALEB.AER BP 227 BEN AKNOUN 
+00800898001398000036328980013               COS/ ECOLE SUPERIEUR DES BEAUX ARTS                                                      BD KRIM BELKACEM 
+00800898001398000036522980013          C.O.S AGENCE NLE DU DEVE DE L'INVESTISSE                                     27, RUE MED MERBOUCHE HUSSEIN DEY 
+00800898001398000036619980013            C.O.S ACE NLE DE PROM COMM EXT (ALGEX)                                           ROUTE NLE N?05 CINQ MAISONS 
+00800898001398000036716980013           C.O.S LAB NL CTROL.PRODUIT PHARMACEUTIQ                                 LOT GERAUD PETIT STAOUELI DELY BRAHIM 
+00800898001398000036910980013                    C.O.S CONSEIL DE LA CONCURENCE                                                 44 RUE MED BELOUIZDED 
+00800898001398000037007980013            C.O.S INST NL D'ETUDE STRATEGIE GLOBAL                                    ROUTE LES VERGERS BP 137 BIRKHADEM 
+00800898001398000037104980013                                C.O.S COUR SUPREME                                            RUE DU 11 DECEMBRE EL-BIAR 
+00800898001398000037201980013           C.O.S/INSTITUT NTL.SUPERIEUR DE MUSIQUE                                                                       
+00800898001398000037395980013                      C.O.S HAUT CONSEIL ISLAMIQUE                                    06, BD 11 DECEMBRE 1960 BEN AKNOUN 
+00800898001398000037492980013                        C.O.S CONSEIL DE LA NATION                                                  07, BD ZIROUT YOUCEF 
+00800898001398000037589980013              C.O.S CENTRE NL DOCUMENT PEDAGOGIQUE                                               01, RUE MOHAMED KHELIFI 
+00800898001398000037686980013          C.O.S CONSEIL CTRL DES OPRA PRIVATISATIO                                    08, RUE AHMED AFFROUNE (EX.TILLOY) 
+00800898001398000037783980013                              C.O.S CONSEIL D'ETAT                                                19, RUE MUSTAPHA OUALI 
+00800898001398000037880980013                 C.O.S OFFICE NATIONAL DU TOURISME                                      02, RUE ISMAIL KERRAR  PORT-SAID 
+00800898001398000038074980013                     C.O.S MUSEE NATIONAL DU BARDO                                           03.RUE FRANKLIN D.ROOSEVELT 
+00800898001398000038171980013          C.O.S CENTRE NL  PROTEC ET SECU ROUTIERE                                       RUE FRERES MOKHTARI HUSSEIN-DEY 
+00800898001398000038268980013              C.O.S OFFICE NL DE METROLOGIE LEGALE                                            38 RUE MOHAMED RABIA KOUBA 
+00800898001398000038462980013                   C.O.S CENTRE CULTUREL ISLAMIQUE                                                    RUE ALI BOUMENDJEL 
+00800898001398000038559980013           C.O.S OFF NL LUT CONTRE DROG ET TOXICOM                                           06 AVENUE DE L'INDEPANDANCE 
+00800898001398000038753980013          C.O.S CTR ALGERIEN DE LA CINEMATOGRAPHIE                                               49 RUE LARBI BEN M'HIDI 
+00800898001398000038850980013          C.O.S INST NL DE LA FORM PROFESSIONNELLE                                            09, CHEMIN D'HYDRA EL BIAR 
+00800898001398000038947980013           C.O.S CTRE.ALG.CTRLE.QUALITE.D'EMBALAGE                                             ROUTE NATIONAL N?05 B.E.Z 
+00800898001398000039044980013          C.O.S CENTRE NL PHARMACOV & MATERIOVIGIL                          SIS NOUVEL INST.PASTEUR - DELY BRAHIM BP 247 
+00800898001398000039141980013              C.O.S ECOLE NL SUPERIEUR DE TOURISME                                     01Bd FRANTZ FANON -TAGARINS-ALGER 
+00800898001398000039238980013               C.O.S ASSEMBLEE POPULAIRE NATIONALE                                                  18, BD ZIROUT YOUCEF 
+00800898001398000039335980013                    C.O.S RESIDENCE DES MAGISTRATS                                           BD 11 DECEMBRE 1960 EL-BIAR 
+00800898001398000039432980013                                    GAHGOUH KHEIRA                                                  01 RUE CONDORCET BEO 
+00800898001398000039529980013          C.O.S CENTRE NL DEVEL DES RESSOUR BIOLOG                                          11 RUE MOHAMED TAZAIRT B.E.O 
+00800898001398000039723980013                                Mme ASSAS KHEDIDJA                                CNI: n? 652517- du 19/11/2006 - A: SBA 
+00800898001398000039820980013                          DJEMAA NADIA  AIT ABBAS                                            02, LOT CHEBAT RAIS HAMIDOU 
+00800898001398000039917980013                      GUERROUACHE HADJER BELDJOUDI                                            60, ROUTE NLE N?11 BAINEM  
+00800898001398000040111980013                                  BELKACEM YASMINE                                      33, RUE JEAN PIERRE DIENOT HYDRA 
+00800898001398000040305980013                                    HAMOUD   SAMIR                                 CITE PUITS DES ZOUAVES Bt11 BOUZAREAH 
+00800898001398000040402980013                                ALI BOUDHAR YOUCEF                               COOPERATIVE ANNADJAH N :70 DELY IBRAHIM 
+00800898001398000040596980013          COS/ETB.NL.EQUIP.TECH.PDG.FOR.L'ENS.PROF                                          11 RUE ALI HADDAD BELOUIZDAD 
+00800898001398000040693980013                         KENTOUCHE   MOHAMED ISLEM                                               25, RUE DE SAVOIE HYDRA 
+00800898001398000040790980013                                    MAIZIA   NAWEL                                      03, RUE ABDELKADER ABDOUNE B.E.O 
+00800898001398000040887980013                                   AMIMEUR   KAMEL                              ZONE AISSAT MUS COOP ELHANNA Bt1 REGHAIA 
+00800898001398000040984980013                                     BECHE   SIHEM                                      CITE ASSAD ABASS N?244 OUED SMAR 
+00800898001398000041081980013                                BELKERFA   NASSIMA                                      01, DOR DOR EX SAID KHOUDI ALGER 
+00800898001398000041178980013          C.O.S INS NL FOR PERFECT PERSONEL EDUCAT                                  04, RUE OULED SIDI CHEIKH EL HARRACH 
+00800898001398000041275980013                              C.O.S DU C.N.A.I.V.G                                         BP 44  ROUTE RAHMANIA- DOUERA 
+00800898001398000041372980013            C.O.S DE LA COMMISSION NLE DU LITTORAL                                               30 AVE MED FALLAH KOUBA 
+00800898001398000041469980013                                  C.O.S DU C.N.E.S                                03, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001398000041566980013                            C.O.S DE L'E.N.S.S.E.A                                  11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001398000041663980013                                  BOUMEDINE MERZAK                                       CITE AADL BT34 N?32 BAB EZZOUAR 
+00800898001398000041760980013                                     MAHIOUS FARES                                     25, LOT COGNOT OUED KORICHE ALGER 
+00800898001398000041857980013                                   BELHADJ SOFIANE                                      82, RUE DES FRERES BELLILI ALGER 
+00800898001398000042148980013                                     CHEBLI  FAIZA                                      149, RUE BOUDJAMAA TEMIME DRARIA 
+00800898001398000042245980013                                   KHEIDRI  CHAWKI                                            06, RUE BAHIA HIDOUR B.E.O 
+00800898001398000042342980013             C.O.S DE L'ECOLE NLE D'ADMINISTRATION                                  13, CHEMIN ABDELKADER GADOUCHE HYDRA 
+00800898001398000042439980013                                C.O.S DE L'I.N.S.P                                            04, CHEMIN EL BAKR EL BIAR 
+00800898001398000042536980013                C.O.S DE LA BIBLIOTHEQUE NATIONALE                                                      B.P 127 EL HAMMA 
+00800898001398000042633980013          C.O.S AGENCE NLE . RESSOURCES HYDROLIQUE                                40,AVENUE MOHAMMEDI - BIR MOURAD RAIS- 
+00800898001398000042730980013                                     ZEHAF WASSILA                                      LOT C.I.B VILLA N?66 ALGER PLAGE 
+00800898001398000042827980013              C.O.S DE L'ACADEMIE ALG . LANG.ARABE                                 06 RUE CLONEL MOHAMED BOUGARA.EL BIAR 
+00800898001398000042924980013                                   C.O.S C.A.C.P.R                                              23 BD AMARA RACHID ALGER 
+00800898001398000043021980013                     C.O.S MUSEE NL DES BEAUX ARTS                                         178 RUE DAR EL SALEM BELCOURT 
+00800898001398000043118980013            C.O.S AGENCE NL CONSERVA DE LA  NATURE                           JARDIN D'ESSAI HAMMA . BP N?115 EL-ANNASSER 
+00800898001398000043215980013                                 C.O.S I.N.P.T.I.C                                  ROUTE DE LARBAA EUCALYPTUS - ALGER - 
+00800898001398000043312980013          C.O.S INST TECHNIQUE DES GRANDES CULTURE                       01 RUE PASTEUR -HASSANE BADI-B.P N?16 ELHARACHE 
+00800898001398000043506980013                              C.O.S DE L'I.S.M.A.S                                                 03 RUE LARBI TEBESSI  
+00800898001398000043603980013                                     MERNAS  SAFIA                                     CITE ELMAKTOUBE SIDI MOUSSA ALGER 
+00800898001398000043797980013                                   BOUCHAMA  FAIZA                                  35 Lot ENNOUR ELDJAMILA  AIN BENIANE 
+00800898001398000043894980013          C.O.S DE L'INSTI.NLE.FORM.SUP.CADR.JEUNE                                     INSCJ DE TIXERAINE  BIRMORAD RAIS 
+00800898001398000043991980013             C.O.S DE L'ECO.NLE. MANAGEM.ADM.SANTE                                              ENMAS EL MARSA - ALGER - 
+00800898001398000044185980013          C.O.S DE L'ECOLE NLE Spre D'INFORMATIQUE                                                  BP N? 68 M OUED SMAR 
+00800898001398000044282980013          C.O.S DE L'ECOLE NLE SUP DE TECHNOLOGIE                               ROUTE Nle N? 05 ZONE INDUSTRIELLE ROUIBA 
+00800898001398000044379980013              C.O.S INST TECHNOLOGIE MOYEN AGRICOL                                               JARDIN D'ESSAI EL HAMMA 
+00800898001398000044476980013          C.O.S INST NL DE LA VULGARISATI? AGRICOL                                                  BP N?42 SAID HAMDINE 
+00800898001398000044573980013                  C.O.S DU MUSEE  NL  DU MOUDJAHID                                                     BP 168 EL MADANIA 
+00800898001398000044767980013           C.O.S DE L'ECOLE NLE SUP DES T PUBLIQUE                                                BP N? 32 GARIDI  KOUBA 
+00800898001398000044864980013           C.O.S DU CONSEIL SUP DE LA LANGUE ARABE                                       06, BD COLONEL BOUGARA  EL BIAR 
+00800898001398000044961980013                                       MEZIANI ALI                                             CITE 24 FEVRIER VILLA N?2 
+00800898001398000045155980013                                    BENKHAOUA SARA                                        LYCEE HASSIBA BEN BOUALI KOUBA 
+00800898001398000045252980013                                    AOUINE HASSEN                                          CITE HAMIZE N?03 DAR EL BEIDA 
+00800898001398000045349980013                                  BENFEKIR MOHAMED                                BP 09 CITE KATIBA ELDJALLOLIA STAOUALI 
+00800898001398000045446980013                                   LAKHDARI RACHID                                            91/77 DEBIH CHERIF  ALGER  
+00800898001398000045543980013                                    BOUZID MOHAMED                                       225 LOGT BT 04 N? 03 MOHAMMADIA 
+00800898001398000045640980013                               BACHIR ABDERRAHMANE                                               127 RUE KAOUCHE CHERAGA 
+00800898001398000045737980013            F?stival Cultur?l Maghr?bine du Cin?ma                                                   03, BD FRONTZ FANON 
+00800898001398000045834980013                                   KARDACHE  BILAL                                    09 Avenue BARBEROUSSE RAIS HAMIDOU 
+00800898001398000045931980013                                   BOURNANE  RAHMA                                          17 RUE PASTEUR  ALGER CENTRE 
+00800898001398000046028980013           COS de l'ECO NLE SUPRE SCIECE POLITIQUE                                                 11 RUE DOUDOU MOKHTAR 
+00800898001398000046125980013          COS  DE L'ECOLE NLE  DE LA PROTEC CIVILE                                                   ENPC BORDJ EL BAHRI 
+00800898001398000046222980013                                COS DE L'I.N.S.I.D                                             HACEN BADI - EL HARRACH - 
+00800898001398000046319980013                                  GHEMATI MOHAMMED                                          23 COP. EL AMEL   - DRARIA - 
+00800898001398000046416980013                            HADJ  KADDOUR MOHAMMED                                 CITE 1827 LOGT BT 46 N? 07  EL ACHOUR 
+00800898001398000046513980013                                     BOURAS NABILA                           CITE  8 MAI 1945 BLOC 103 N? 11 BAB EZZOUAR 
+00800898001398000046707980013                                  HAMITOUCHE SALIM                                  BP.85 BEN AKNOUN  R.P. 16028 -ALGER- 
+00800898001398000046804980013                                       BACHA SIHEM                                            17 RUE AHMED BOUDAR  -BEO- 
+00800898001398000046901980013                                   CHATER  SABRINA                                   RUE DE LA REVOLUTION   BENI MESSOUS 
+00800898001398000047095980013                                 MESSALEM  KAMILIA                                        07 RUE FRERES DES RAOUI  B.E.O 
+00800898001398000047192980013                                   TADJER SABRINA                                   06 RUE ALI BOUMENDJEL HAMMAMET ALGER 
+00800898001398000047289980013          COS CTRE NL DE LA CINEMATOG.AUDIO-VISUEL                                              3 Bd FRANTZ FANON- ALGER 
+00800898001398000047386980013          COS INST. NL DE LA MEDECINE VETRINAIRE                                             BP 205 HACEN BADI-EL HARACH 
+00800898001398000047483980013           SO.ALG. GESTI. RESEAU DE TRSPORT DU GAZ                               ROUTE NATIONAL N?38 IMMEUBLE 700 BUREAU 
+00800898001398000047580980013                 COS CNTRE NLE DE MEDCINE DU SPORT                          CITE OLYMPIQUE MED BOUDIAF DELY BRAHIM ALGER 
+00800898001398000047677980013            C.O.S OFFICE NTL DS EXAMNS ET CONCOURS                                 03, RUE DU PROFESSEUR VINCENT TELEMLY 
+00800898001398000047774980013                                    ABERKANE FATEH                           VILLA C 14 RAS EL FOURNE DELLY BRAHIM ALGER 
+00800898001398000047968980013                           COS SERVICE DES ALCOOLS                                      25 RUE MOHAMED BELOUIZDAD ALGER  
+00800898001398000048065980013           SOCIETE DE DISTRIB DE L'ELECT GAZ ALGER                                      39/41 RUE KHLIFA BOUKHALFA ALGER 
+00800898001398000048162980013                C.O.S ECOLE NTLE SUP DE MANAGEMENT                                        37 RUE LARBI BEN M''HIDI ALGER 
+00800898001398000048259980013             C.O.S  MUSEE PUBLIC NATIONAL MARITIME                                              23 BD AMARA RACHID B.E.O 
+00800898001398000048356980013                                      OMARI NABILA                                   CITE EL HAMIZ SUD N?01 DAR EL BAIDA 
+00800898001398000048453980013                                      TOUMI FAYCAL                                CITE MOHAMADIA BT A7N?135 EL HARRACHE  
+00800898001398000048647980013                                      SARRI MOUNIA                                              03 RUE THIESS EL HARRACH 
+00800898001398000048744980013                                     SABEGH  FAIZA                              CITE SALIBA 02 N?34 OUED SMAR EL HARRACH 
+00800898001398000048841980013                                     ZITOUNI AFFAF                                   12 RUE ABDELKRIM SEGHIR EL MOURADIA 
+00800898001398000048938980013                                     BELKAID ZINEB                     ECOLE ABI EL KACEM KOUARDRI N?21CITE EL MOUDJAHID 
+00800898001398000049035980013                                   ZEGHNOUF MERIEM                                    CITE SBAAT LOT 36 N?7 ROUIBA ALGER 
+00800898001398000049132980013                                    AMROUNE MOURAD                                   51 RUE BOUDJAMAA MOGHNI H.DAY ALGER 
+00800898001398000049423980013                                   BENHAFED BAKIR                                           200 RUE MED BELOUIZDAD ALGER 
+00800898001398000049520980013                                     MAROUNI HAMID                                   CITE 536 LGT BT 26 N 2 SBAAT ROUIBA 
+00800898001398000049714980013                        FEDEP SAISON ESTIVALE 2013                                              11 RUE MED TAZAIRT B.E.O 
+00800898001398000049811980013                                       TAIBI NAIMA                                         1 RUE PIERRE LOTI B.E.O ALGER 
+00800898001398000049908980013               C..O.S INST NLE DE LA PRTC VEGETAUX                     12 AVENUE DES FRERES OUADEK HACEN BADI -EL HARACH 
+00800898001398000050005980013            COS/ECO.NLE.CONSERV.RESTAU. BIENS CULT                                 1 PLACE OMAR ABDELKADER CASBAH  ALGER 
+00800898001398000050102980013                              ELMABROUK ABDELKADER                              35 RUE DU BOGGAR BT(H)-HYDRA 16035-ALGER 
+00800898001398000050296980013                                    LATEF  RACHIDA                               CITE 05 JUILLET 1962 BAB AHSSEN -ALGER- 
+00800898001398000050393980013                            BENMESSAHEL  BARKAHOUM                                CITE BEYLOT 02 RUE 03 N?15 L'ECALYPTUS 
+00800898001398000050490980013           C.O.S CTR NL  CTRL  CRTF SMENCES PLANTE                                                BP HASSEN BADI -ALGER- 
+00800898001398000050684980013                                 C.O.S.    E.P.A.U                                 BP 177 ROUTE DE BEAULLIEU EL HARRACH  
+00800898001398000050781980013                                     TILLOU MERIEM                        CITE 08 MAI 1945 BT 25 N?11 BAB EZZOUAR -ALGER 
+00800898001398000050878980013                             BELAID MOHAMED LAMINE                                 05 RUE LARBI MADI BEB EL OUED -ALGER- 
+00800898001398000051072980013                                  LEBSARI IBTISSEM                           CITE JOLIE VUE BT M1 EX 2 N?2 KOUBA -ALGER- 
+00800898001398000051169980013                                    AMROUNE ZINEB                                           17 RUE GASCOGNE SIDI M'HAMED 
+00800898001398000051266980013                                    MEBROUK MOHAND                                       82 BIS HAI EL BADR BACHE DJERAH 
+00800898001398000051363980013                                  CHABANE ABDELHAK                    06 CHEMIN VERDIN BEAUX FRAISIER OUED KORICHE -ALGE 
+00800898001398000051460980013                                    GUETATFA AHLAM                           CITE 720 LOGTS BT A08 N? AIN NAADJA -ALGER- 
+00800898001398000051557980013                                     LEBGHIL SONIA                             124 RUE LA CONSULAIRE BOULOUGHINE -ALGER- 
+00800898001398000051654980013                           LAHOUSNIA MOHAMED AMINE                                  16 BIS RUE DEBIH CHERIF ALGER CENTRE 
+00800898001398000051751980013                                    NEMMOUR ROKIA                      CITE 2248 LOGTS BT 158 D N? 7 AIN NAADJA -ALGER-  
+00800898001398000051848980013                                     HATTOUM NAWEL                                   CITE 184 LOGTS BAT 2 N?2 EL HARRACH 
+00800898001398000051945980013                                 MENTOURI HASSIBA                             CITE ZENATI SADEK N?04 CHERARBA EUCALYPTUS 
+00800898001398000052042980013                                   BARKATI MOULOUD                                              180 BARAKI EST 03 BARAKI 
+00800898001398000052333980013                                       HADID AMEL                            CITE CHEVALIER BT C 10 OUED KORICHE -ALGER- 
+00800898001398000052430980013                                  MEZGHICHE SARAH                                COUPERATIVE EL BAHDJA N?9 KOUBA -ALGER- 
+00800898001398000052527980013                                    LAZIZI YASMINA                       100 RUE HANIN ,CITE BEL -AIR BACHDJARAH -ALGER- 
+00800898001398000052624980013                                   AKHERIB MOHAMED                      45 COOPERATIVE LES VERGERS N?1 BIRKHADEM -ALGER- 
+00800898001398000052721980013           ACE NL DE GST INTEGREE DS RESSOURCE EAU                                    03 RUE DU CAIRE , KOUBA , -ALGER-  
+00800898001398000052818980013                                 TCHEKRABI   HAFID                                      06 IMPASSE ISIDOR TACHET - ALGER 
+00800898001398000052915980013                                   TOUAHRIA  KENZA                                   AVENUE ASKRI AHCEN BT .F. 10  B.E.O 
+00800898001398000053012980013                           BOUCHEBOUBA   ABDELNOUR                                     37 RUE NAFISSA  EL CASBAH -ALGER- 
+00800898001398000053109980013                                     MEGHNI  ZAHIA                                    08 RUE RABAH RIAH -EL CASBAH-ALGER 
+00800898001398000053206980013                          BOUGHERFA  MOHAMED ELIAS                            H.L.M 7eme GROUPE PLACE DU 1er MAI -ALGER- 
+00800898001398000053497980013                                KHELIFA  CHAHRAZAD                          11 RUE AIBOUD ABDERRAHMANE .EL CASBAH.-ALGER 
+00800898001398000053594980013                                   BOUAZA  DJAMILA                                 RUE MOHAMED BOURAS .EL CASBAH.-ALGER- 
+00800898001398000053691980013                                   BELLILI  GHANIA                                   06 AVENUE ASKRI AHCEN B.E.O -ALGER- 
+00800898001398000053788980013                                     ALLAL  DAHBIA                                     04 LOG AHMED HASIN  B.E.O -ALGER- 
+00800898001398000053885980013                                     SAOUD  HAMIDA                                       RUE VIEUX MOULIN  B.E.O -ALGER- 
+00800898001398000053982980013           C.O.S UNIVERSITE DE  FORMATION CONTINUE                                       BP 41 RUE AHMED OUAKED D.BRAHIM 
+00800898001398000054079980013                              BRUCK  HELENE TULLIA                                    05 RUE METZ HAMBOURG MOUZEL FRANCE 
+00800898001398000054176980013                                    MANSOUR  NABIL                              CITE RABAH BOUAZIZ Bt 07 N:01 AIN BENIEN 
+00800898001398000054273980013               COS/AGENCE.NL.CHANGEMENT CLIMATIQUE                                       30AVENUE MOHAMED FELLAH .KOUBA  
+00800898001398000054370980013                                     KLETIN  AHMED                                       RUE  ALI BOUHEDJA n?42 BIRTOUTA 
+00800898001398000054564980013                                   BENTAHAR  SALIM                                           BP: A 35 / MAHALEMA / ALGER 
+00800898001398000054758980013              COS.CENTRE NAT DES RERMIS DE CONUIRE                                         ROUTE NATIONAL N?05 - ROUIBA- 
+00800898001398000054855980013              COS.AGC NAT DES SECTEURS SAUVEGARDES                                  DAR EL KADI 17 Rue HADJ OMAR-CASBAH- 
+00800898001398000055146980013                                     MEHIBEL IMENE                                VILLAGE AMOUR LABRIDJI N?06 -STAOUELI- 
+00800898001398000055243980013                                    BOURDJOU SADEK                                 CITE EUCALYPTUS Bt (J) N?10-BOUROUBA- 
+00800898001398000055437980013                             BENARDJOUNA MESSAOUDA                            CITE SLIMANI MOHAMED RUE10 N?4 EUCALYPTUSE 
+00800898001398000055534980013                              BOUCHELILET REDOUANE                              CITE 140 N?10 CHATEAU ROUGE EUCALYPTUSE  
+00800898001398000055631980013                                    SATA  KHADIDJA                                    17 RUE MOHAMED NACHAR RAIS HAMIDOU 
+00800898001398000055825980013                               BENBRAHAM  DJAOUIDA                             04 AVENUE MABROUK BELAHCENE RAIS-HAMIDOU  
+00800898001398000055922980013                                   BERRAHAL FAROUK                                              14 RUE ALI MECHKAL B-E-O 
+00800898001398000056019980013                                    CHIHANI RAOUIA                                   220 AVENUE HAMID KEBLADJ -HAMMAMET- 
+00800898001398000056116980013                                   BOUDISSA SOUMIA                    CITE 389 LOGT ILO 04 N?7 SIDI YOUSSEF BENI-MESSOUS 
+00800898001398000056213980013                                     BECHE HASSINA                                  CITE ASSAAD ABBAS N?244 OUED ESSEMAR 
+00800898001398000056310980013                                SIDI SAID TASSADIT                                    05 RUE LABIDI DJAFFAR EL-MOURADIA- 
+00800898001398000056407980013                                   BESTANI IBRAHIM                     CITE 468 LOG Bt 25 N?15 DJENAN ESSFARI BIR KHADEM 
+00800898001398000056504980013                                 DJEDDI ABDELGHANI                                  23 RUE 11 DECEMBRE1960 -BACHDJERRAH- 
+00800898001398000056601980013                                     CHERIF RACHID                                 CITE 917 LOG. Bt 01 N?160 EUCALYPTUSE 
+00800898001398000056795980013                                 BENSEBA ABDELKRIM                          26 CITE MOUDJAHED AKKOU LAHCEN -EL HAMMAMET- 
+00800898001398000056892980013                                     MEFTI OUSSAMA                                            03 RUE AHMED HASSINA B-E-O 
+00800898001398000056989980013                                     ZAIT  MOHAMED                               52 RUE LES FRERES BELILI -ALGER CENTRE- 
+00800898001398000057183980013                                        ABDI RABIA                                              23 RUE NAFISSA EL CASBAH 
+00800898001398000057280980013                                   BOUZINA SABRINA                                    CITE 488 LOG Bt 26 N?01 BACHDJERAH 
+00800898001398000057377980013                                     KEBOUR RAZIKA                                  CITE ALI KHODJA N?68 BORDJ EL KIFFEN 
+00800898001398000057474980013                                    HAMMOUM KAHINA                                   CITE 216 LOG Bt A 06 N?10 -REGHAIA- 
+00800898001398000057571980013                                      DJOULAH LINA                              CITE 2248 Bt 141 N?14 GUE DE CONSTANTINE 
+00800898001398000057668980013                                     DAOUDI BILLEL                               CITE MIMOSA Bt 2b ETG C N?09 -STAOUALI- 
+00800898001398000057765980013                                    DJEDILI NAZIHA                                  CITE 67 LOGT EPP Bt 06 N?06 -ROUIBA- 
+00800898001398000057862980013                                   ABERBACHE SALIM                          CITE 536 LOGT Bt 14 Cg B N?02 SBAAT -ROUIBA- 
+00800898001398000057959980013                                   ZITOUNI NAFISSA                                       11 RUE LARBI BEN M'HIDI -ALGER- 
+00800898001398000058056980013                                   BOUHERAMA NADIA                                LOT 207 RUE BOUDADES BEN RAHAL-BARAKI- 
+00800898001398000058250980013                                KAHLERRAS ABDELHAK                                 CITE SOUMMAM Bt 15 N?02 -BAB EZZOUAR- 
+00800898001398000058347980013                                     DENDANI YAMNA                              18 RUE DES FRERES MANSOUR -SIDI M'HAMED- 
+00800898001398000058444980013                                     ZITOUNI SOUAD                                                      RUE SIDI M'HAMED 
+00800898001398000058541980013                                     SEBAA OUAHIBA                                         09 RUE ALI HADJ ALI AL-CASBAH 
+00800898001398000058638980013                                   BOUDRICI SAMIRA                                           CITE AADL Bt 07 EUCALYPTUSE 
+00800898001398000058735980013                                      TERFAI AMMAR                                           04 RUE KHALED DAKAR -B.E.O- 
+00800898001398000058832980013                                  BENHAMOUDA SOUAD                                      CITE 420 Bt 34 LOGEMENT EL-HAMIZ 
+00800898001398000058929980013                               BOUDEBZA RABAH RIAD                                         08 RUE BRAHIM GHERAFA -B.E.O- 
+00800898001398000059026980013                                   MAHIDDINE HAMZA                                             N?57 LOT DE L'EST ZERALDA 
+00800898001398000059123980013                                     GUENOUN ZAHIA                                        04 RUE MOHAMED OUDALHA -B.E.O- 
+00800898001398000059220980013                                      GALOUL BILAL                             CITE SIDI EMBAREK N?32 Logt 97 EUCALYPTUS 
+00800898001398000059317980013                                   BENCHAREF ZAHIA                                          48 RUE EMIR KHALED BOLOGHINE 
+00800898001398000059414980013                                      HADJI MERIEM                                           51 AVENUE SAID TOUATI B.E.O 
+00800898001398000059608980013                                 HAROUN NOUREDDINE                                      CITE BOUZEGZA Bt 05 N?07 REGHAIA 
+00800898001398000059705980013                                       ABDI YOUCEF                               11 AVENUE OURIDA MEDAD LA CASBAH-ALGER- 
+00800898001398000059802980013                                     RAMINI DJAMEL                                                Lot 132 BARAKI -ALGER- 
+00800898001398000059996980013                       HADJALI MOHAMMED NACERDDINE                                        Cit? Azur et Mer N?76 Bt - B - 
+00800898001398000060093980013                                  DEKDOUK DJAOUIDA                                        01 IMPASSE DES PALMIERS,CASBAH 
+00800898001398000060190980013                                  CHENIOUR MAHMOUD                                   13 AVENUE LAMARI AMHAMED-BOUZAREAH- 
+00800898001398000060287980013                      COS/CENTRE NATIONAL DU LIVRE                                             01.BOULEVARD FRANTZ FANON 
+00800898001398000060481980013             COS/ORG.NL.PREV.LUTTE.CTRE.CORRUPTION                                         VILLA RAIS HAMIDOU EL-MADANIA 
+00800898001398000060578980013           COS/CTR.NL.ETD.INF.DOC.SUR FAM.FEM.ENFA                                21BOULVARD KRIM-BELKACEM.TELEMLY.ALGER 
+00800898001398000060675980013          COS/LB.N.CTR.ALY.PRD.PECH.AQ.CUL.SLB.MLX                     RUE COLBERT EL DJAMILA-AIN BENIAN(ex LA MADRAGUE) 
+00800898001398000060772980013          SO.ALG.GEST.RESEAU DE TRSPORT DE L'ELECT                      IMMEUBLE DES 500 BUREAUX RN N?38 GUE-CONSTANTINE 
+00800898001398000060869980013          COS/LAB.NL.DEPIST.ET LUTTE CTR.LE DOPAGE                                        CITE OLYMPIQUE MOHAMED BOUDIAF 
+00800898001398000060966980013                               SOUILAH  NOUREDDINE                             CITE 300 LOGTS Bt 21 N? 21 BORDJ EL BAHRI 
+00800898001398000061063980013                                  BELDJOUZI  ZAHRA                                   CITE BOUGARA Bt OA N?09 SIDI MOUSSA 
+00800898001398000061160980013                                  BENAISSA ISMAHEN                                 19 LOT.GHIAT RUE ALI REMLI -BOUZAREAH 
+00800898001398000061257980013             SOC.ALG.DE PROD.L'ELECTRICITE SPE.Spa                     IMMEUBLE DES 700 BUREAUX-RN N?38 GUE- CONSTANTINE 
+00800898001398000061354980013                      C.O.S DE LA COUR DES COMPTES                                                   19, RUE RABAH MIDAT 
+00800898001398000061451980013          COS/OBSERVATOIRE NLE DEL'EDUCT &FORMTION                         Route Nationale N? 36 LYCEE AMARA  Ben Aknoun 
+00800898001398000061548980013          COS CTRE.NLE.PEDAG.LINGUIST.ENSGN.TAMAZI                          Bd DE L'INDEPENDANCE PALAIS DE PEUPLE  ALGER 
+00800898001398000061645980013                                  SELMANI  HASSIBA                                          09 YACEF AREZKI BOULOUGHINE  
+00800898001398000061742980013           AGENCE NLE DES PRODUITS PHARMACEUTIQUES                      Lot Geraud Petit Staouali Dely Brahim - cheraga- 
+00800898001398000061839980013          C.O.S  CENTRE DE RECHERCHE JURIDIQUE JUD                                               BD TELA HASSENE CHERAGA 
+00800898001398000061936980013            COS/ECOLE NLE . SPORTS NAUTIQ. SUBAQUA                                         40 RUE PRINCIPLE ALGER PLAGE  
+00800898001398000062033980013                                  BAKHOUKH  LOUNES                                   04 RUE DE LILO LOG R.H.P AIN BENIAN 
+00800813001413000000219980014                          INSTANCE CHEQUE CERTIFIE                                                                       
+00800898001598000000137980015          R/D CELLULE TRAITEMENT RENSEI FINANCIER                                           SIEGE MINISTERE DES FINANCES 
+00800898001598000000234980015                     R/D CONSEIL DE LA CONCURRENCE                                                44, RUE MED BELOUIZDAD 
+00800898001598000000428980015                     R/D CENTRE CULTUREL ISLAMIQUE                                    12, RUE  ALI BOUMENDJEL  - alger - 
+00800898001598000000525980015                      R/D CENTRE NL DE TOXICOLOGIE                                                           DELY BRAHIM 
+00800898001598000000622980015                        REGIE DE DEPENSES DU CNDRB                                         11, RUE MOHAMED TAZAIRT B.E.O 
+00800898001598000000719980015              R/D CENTRE ALG DE LA CINEMATOGRAPHIE                                              49, RUE LARBI BEN M'HIDI 
+00800898001598000000816980015                  compte cloture balance a a/c ENG                                              BP N?61 05 JUILLET B.E.Z 
+00800898001598000000913980015              R/D FOND. SOLID. ASS. COLLECT. LOCAL                                              42, RUE LARBI BEN M'HIDI 
+00800898001598000001010980015           R/D INSTI TECH  CULT MARICHAI ET INDUST                                                      BP N?50 STAOUELI 
+00800898001598000001107980015           R/D INSTIT NL SUP DE PECHE ET AQU CULTU                                            04, CHEMIN EL BAKR EL BIAR 
+00800898001598000001204980015          R/D OFF NL DE LUTTE CONTR DROG ET TOXICO                               CITE DAHALIZ RUE 42 VILLA 03 EL HARRACH 
+00800898001598000001301980015                          R/D PALAIS DE LA CULTURE                                                  PALAIS DE LA CULTURE 
+00800898001598000001495980015          R/D ECOLE NATIONAL SUPERIEUR DU TOURISME                                          01 BD FRANT FANON EL AURASSI 
+00800898001598000001592980015           R/D CONSEIL DE CONT DES OPP DE PRIVATIS                                                08, RUE AHMED AFFROUNE 
+00800898001598000001689980015                      R/D RESIDENCE DES MAGISTRATS                                   06 RUE 11 DECEMBRE 1960 BEN AKNOUNE 
+00800898001598000001786980015             R/D AGENC NLE DE DEVLOPPEM DE LA PME                                    34, AVE MED BELKACEMI LES ANNASSERS 
+00800898001598000001883980015                  R/D COMMISSARIAT NL DU LITTORAL                                                30 RUE MED FELLAH KOUBA 
+00800898001598000001980980015             R/D PREPA DU FESTI CULTUR PANAF 2009                                                  BD AMARA RACHID B.E.O 
+00800898001598000002077980015                                     R/D A.T.R.S.T                                    AVE PASTEUR HACENE BADI EL HARRACH 
+00800898001598000002174980015           R/D CONSEIL NL CONSULT POUR LA PROM PME                                  31, AVE BELKACEMI MOHAMED IMM AGENOR 
+00800898001598000002271980015                RD/ MUSEE PUBLIC NATIONAL MARITIME                                                  BASTION 23 MAISON 13 
+00800898001598000002465980015           R/D CENTRE NL PED ET LING ENS TAMAZIGHT                                   BD DE L'INDEPENDANCE QSAR ECH CHAAB 
+00800898001598000002562980015          R/D ECOLE NLE SUP DE SCIENCES POLITIQUES                                  11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001598000002756980015                R/D  ECOLE NLE SUP DE TECHNOLOGIE                               ROUTE Nle N? 05 ZONE INDUSTRIELLE ROUIBA 
+00800898001598000002853980015                   R/D ECOLE NLE SUP DE MANAGEMENT                                      37 RUE DIDOUCHE MOURAD - ALGER - 
+00800898001598000002950980015                      REGIE DEPENSE DE L'I.N.S.I.D                                         BP N?148 OUED SMAR EL HARRACH 
+00800898001598000003047980015            R/D ECLE NLE SUP JOURNAL SCES DE INFOR                                 11.CHEMIN DOUDOU MOKHTAR -BEN AKNOUN- 
+00800898001598000003144980015          R/D ECOLE CONSER & RESTAU DES BIENS CULT                                                DAR  ESSOUF  LA CASBAH 
+00800898001598000003241980015                     REGIE DE DEPENSES DE L'INPTIC                                           ROUTE DE L'ARBAA EUCALYPTUS 
+00800898001598000003338980015                    R/D ECOLE NLE D'ADMINISTRATION                                  13, CHEMIN ABDELKADER GADOUCHE HYDRA 
+00800898001598000003435980015                                     R/R M.N.A.M.C                                         25 RUE LARBI BEN MHIDI ALGER  
+00800898001598000003532980015                      R/D CENTRE NATIONAL DE LIVRE                                        01 BOULVARD FRANTZ FANON ALGER 
+00800898001598000003629980015            R/D ORGANE NLE DE PREV LUTTE CNTR CORR                                                                       
+00800898001598000003726980015                                   R/D M.P.N.E.M.C                          12 RUE DES FRERES MECHRIA BASSE CASBAH ALGER 
+00800898001598000003823980015                                  R/R M.P.N.E..M.C                          12 RUE DES FRERES MECHRIA BASSE CASBAH ALGER 
+00800898001598000004017980015                      REGIE DEPENSE DE L'I.N.E.S.G                                38, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001598000004114980015                          REGIE DEPENSE DE L'A.N.C                                            27, RUE M'HAMED BOUCHAKOUR 
+00800898001598000004211980015                        REGIE DEPENSE DE L'I.N.V.A                                            BP N?42 SAID HAMDINE B.M.R 
+00800898001598000004308980015                        REGIE DEPENSE DU C.A.C.Q.E                                            ROUTE NLE N?05 BAB EZZOUAR 
+00800898001598000004405980015                        REGIE DEPENSE DE L'A.N.D.I                                           17, RUE MED MERBOUCHE H.DEY 
+00800898001598000004502980015                      REGIE DEPENSE DE L'I.N.P.F.P                                          82, RUE FERNANE HANAFI H.DEY 
+00800898001598000004696980015                        REGIE DEPENSE DE L'O.N.S.M                                              06, BD COLONEL AMIROUCHE 
+00800898001598000004793980015                              REGIE DEPENSE DU C.E                                                19, RUE MUSTAPHA OUALI 
+00800898001598000004890980015                          REGIE DEPENSE DE L'O.N.S                                         8 ET 10, RUE DES MOUSSEBILINE 
+00800898001598000004987980015              REGIE DEPENSE DE LA COUR DES COMPTES                                                   19, RUE RABAH MIDAT 
+00800898001598000005084980015                          REGIE DEPENSE DE L'E.S.M                                            RUE DU 11 DECEMBRE EL BIAR 
+00800898001598000005181980015                   REGIE DEPENSE DE LA C.N.P.P.D.H                                                      PALAIS DU PEUPLE 
+00800898001598000005375980015                          REGIE DEPENSE DU C.S.L.A                                        06, BD COLONEL BOUGARA EL BIAR 
+00800898001598000005472980015                          REGIE DEPENSE DE L'E.M.P                                                BP N?17 BORDJ EL BAHRI 
+00800898001598000005569980015                        REGIE DEPENSE DE L'O.N.M.L                                               38, RUE MED RABIA KOUBA 
+00800898001598000005666980015                          REGIE DEPENSE DU C.N.E.S                                03, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001598000005763980015                        REGIE DEPENSE DE L'A.A.L.A                                        06, BD COLONEL BOUGARA EL BIAR 
+00800898001598000005957980015                        REGIE DEPENSE DE L'E.S.B.A                                                      BD KRIM BELKACEM 
+00800898001598000006054980015                      REGIE DEPENSE DU C.N.A.I.V.G                                       BP N?44 ROUTE ERRAHMANIA DOUERA 
+00800898001598000006151980015                REGIE DEPENSE DU C.CONSTITUTIONNEL                                               RUE DU 11 DECEMBRE 1960 
+00800898001598000006248980015            REGIE DEPENSE DE L'INFS/STS AIN BENIAN                                    BP N?117 CITE BELLE VUE AIN BENIAN 
+00800898001598000006345980015                        REGIE DEPENSE DE L'I.D.R.I                                      RUE DES FRERES ZIATA EL MOURADIA 
+00800898001598000006442980015                     REGIE DEPENSE DE L'E.N.S.Agro                                            AVE HASSEN BADI EL HARRACH 
+00800898001598000006539980015                  REGIE DEPENSE DE L'E.N.S.S.M.A.L                                     BP N?19 BOIS DES CARS DELY BRAHIM 
+00800898001598000006636980015                        REGIE DEPENSE DE L'I.T.G.C                                    01, AVE PASTEUR BP N?16 EL HARRACH 
+00800898001598000006733980015                            REGIE DEPENSE DU H.C.I                                    06, BD 11 DECEMBRE 1960 BEN AKNOUN 
+00800898001598000006830980015                           REGIE DEPENSE DE LA B.N                                                     BP N?127 EL HAMMA 
+00800898001598000006927980015                             REGIE DEPENSE D'ALGEX                                          ROUTE NLE N?05 EL MOHAMMADIA 
+00800898001598000007218980015                      REGIE DEPENSE DE L'E.N.S.T.P                                        RUE GARIDI BP N?32 VIEUX KOUBA 
+00800898001598000007315980015                          REGIE DEPENSE DE L'A.P.N                                                  18, BD ZIROUT YOUCEF 
+00800898001598000007509980015                          REGIE DEPENSE DE L'E.N.T                                       16, RUE HALLES SAID EL MOURADIA 
+00800898001598000007606980015                              REGIE DEPENSE DU C.N                                                  07, BD ZIROUT YOUCEF 
+00800898001598000007703980015                      REGIE DEPENSE DE L'E.N.E.F.P                                   11, RUE ALI HADDAD BP217 BELOUIZDAD 
+00800898001598000007897980015                           REGIE DEPENSE DE LA C.S                                            RUE DU 11 DECEMBRE EL BIAR 
+00800898001598000007994980015                          REGIE DEPENSE DU C.N.C.A                                                   03, BD FRANTZ FANON 
+00800898001598000008285980015                        REGIE DEPENSE DU L.N.C.P.P                                 LOT GERAUD PETIT STAOUELI DELY BRAHIM 
+00800898001598000008382980015                      REGIE DEPENSE DU C.A.M.E.M.D                                             BP N?31 HAI EL BADR KOUBA 
+00800898001598000008479980015                          REGIE DEPENSE DE L'A.N.S                                         15 ROUTE DU KADDOUS TIXERAINE 
+00800898001598000008576980015                      REGIE DEPENSE DE L'I.S.M.A.S                                           03, RUE LAARBI TBESSI B.E.K 
+00800898001598000008673980015              R/R Centre ALG De La Cin?matographie                                              49, RUE LARBI BEN M'HIDI 
+00800898001598000008770980015                        REGIE DEPENSE DE L'I.N.P.V                                  12, AVE DES FRERES OUADEK EL HARRACH 
+00800898001598000008867980015                     R/R CENTRE CULTUREL ISLAMIQUE                                    12, RUE  ALI BOUMENDJEL  - alger - 
+00800898001598000008964980015                        REGIE DEPENSE DE L'I.N.S.P                                            04, CHEMIN EL BAKR EL BIAR 
+00800898001598000009061980015                      REGIE DEPENSE DE L'O.N.A.E.A                              37, CH. CHEIKH EL IBRAHIMI BP251 EL BIAR 
+00800898001598000009158980015                          REGIE DEPENSE DE L'E.S.I                                        BP N?68 M OUED SMAR EL HARRACH 
+00800898001598000009255980015                   REGIE DE DEPENSE DE L'E.N.P.E.I                                                       BP N? 05 ROUIBA 
+00800898001598000009352980015                      REGIE DEPENSE DE L'I.N.F.P.E                                   04, RUE OULED SIDI CHIKH EL HARRACH 
+00800898001598000009449980015                      REGIE DEPENSE DE L'O.N.E.F.D                                             43, RUE BEN CHENEB CASBAH 
+00800898001598000009546980015                        REGIE DEPENSE DE L'E.P.A.U                                                    BP N?02 EL HARRACH 
+00800898001598000009643980015                        R/D DU MUSEE NLE MOUDJAHID                                              RIADH EL FETH EL MADANIA 
+00800898001598000009740980015                      REGIE DEPENSE DU C.N.C.C.S.P                                       BP N?119 HACENE BADI EL HARRACH 
+00800898001598000009837980015                    REGIE DEPENSE DE L'E.N.S.S.E.A                                         11, DOUDOU MOKHTAR BEN AKNOUN 
+00800898001598000009934980015          R/D ECOLE NL SUP SCIENCE  TECH DE SPORT                                                       BP N? 71 EL BIAR 
+00800898001598000010031980015                        REGIE DEPENSE DE L'O.N.E.C                                 03, RUE DU PROFESSEUR VINCENT TELIMLY 
+00800898001598000010128980015                          REGIE DEPENSE DE L'U.F.C                                    BD 41 RUE AHMED OUAKED DELY BRAHIM 
+00800898001598000010225980015                    REGIE DE DEPENSES DE L'INCC.GN                                                  INCC  G.N  BOUCHAOUI 
+00800898001598000010322980015                    REGIE DE DEPENSES DE L'O.N.O.U                               RESID UNIV TALEB A.RAHMANE 1 BEN AKNOUN 
+00800898001598000010419980015           R/D-AGENCE.NL.DES CHANGEMENT CLIMATIQUE                                     30 Avenue Mohamed Fellah - KOUBA- 
+00800898001598000010516980015                                          R/D INSM                                                 BD AMARA RACHID B.E.O 
+00800898001598000010613980015                           REGIE DE RECETTE .INSID                                            B.P 148 OUED SMAR - ALGER- 
+00800898001598000010710980015                            REGIE DE DEPENSE  ANCN                                        BP 115 EL-HAMMA LES ANNASSERS  
+00800898001598000010807980015                        REGIE RECETTE DE L'A.N.D.I                                          27, RUE MED MERBOUCHE H. DEY 
+00800898001598000010904980015                           REGIE RECETTE DE LA B.N                                                     BP N?127 EL HAMMA 
+00800898001598000011001980015                        REGIE RECETTE DU L.N.C.P.P                                 LOT GERAUD PETIT STAOUELI DELY BRAHIM 
+00800898001598000011195980015                        REGIE RECETTE DE L'E.N.P.C                                                        BORDJ EL BAHRI 
+00800898001598000011292980015                     REGIE RECETTE DE L'E.N.S.Agro                                            AVE HASSEN BADI EL HARRACH 
+00800898001598000011389980015                        REGIE RECETTE DE L'H.M.U.S                                                      BP N?83 STAOUELI 
+00800898001598000011486980015          R/ R  L'ECOL NLE SUP SCIENCE TECH  SPORT                                                       BP N?71 EL BIAR 
+00800898001598000011583980015                    REGIE RECETTE DE L'I.N.P.T.I.C                                           ROUTE DE L'ARBAA EUCALYPTUS 
+00800898001598000011680980015                    REGIE DE RECETTES DE L'INCC.GN                                                        INCC BOUCHAOUI 
+00800898001598000011777980015                          REGIE DE RECETTE DU MNBA                                      178, VILLA DAR ES-SALAM EL HAMMA 
+00800898001598000011874980015                       REGIE DE RECETTES DU CNEMPN                                                       BP N? 325 KOUBA 
+00800898001598000011971980015          R/R AGENCE NLE DES RESSORCES HYDRAULIQUE                                       40 AVENUE MOHAMED BIRMORAD RAIS 
+00800898001598000012068980015                           R/R PLAIS DE LA CULTURE                           PALAIS DE LA CULTURE EL ANASSER KOUBA ALGER 
+00800898001598000012165980015                                         R/R INFPE                                   04, RUE OULED SIDI CHIKH EL HARRACH 
+00800898001598000012262980015                                   R/R I.N.F.S.C.J                                 MADANI SOUAHI TIXERAINE BP N?41 B.M.R 
+00800898001598000012359980015                R/R ECO.NLE.PERSONELES DES GREFFES                                       BT 61 ANNEX DU 05 JUILLET B.E.Z 
+00800898001598000012456980015          R/R Mus?e Public National des Antiquit?s                                                 177, BD KRIM BELKACEM 
+00800898001598000012553980015                R/R Mus?e Public National du Bardo                                  03 Rue Franklin D. Roosevelt - alger 
+00800898001598000012650980015                 R/R Ecole Militaire Polytechnique                                               BP N? 17 BORDJ EL BAHRI 
+00800898001598000012747980015                                       R/R  ENSSEA                                   11 Chemin Doudou Mokhtar.Ben-Aknoun 
+00800898001598000012844980015          R/R E.N.Sports Nautiques et Subaquatique                             Rue Principale N?40 Alger Plage B.E.Bahri 
+00800898001598000012941980015          R/D E.N.Sports Nautiques et Subaquatique                             Rue Principale N?40 Alger Plage B.E.Bahri 
+00800898001598000013038980015                                R/R CONSEIL D'ETAT                                         RN n?36 Chateau-neuf .EL BIAR 
+00800898001598000013135980015               R/D AGENCE NLE.SECTEURS SAUVEGARDES                                   DAR EL KADI 17 RUE HADJ OMAR CASBAH 
+00800898001598000013232980015          R/R.CENTRE DE RECHE.JURIDIQUE JUDICIAIRE                                               BD TELA HASSENE CHERAGA 
+00800898001598000013329980015                      R/R RESIDENCE DES MAGISTRATS                                    06 RUE 11 DECEMBRE 1960 BEN AKNOUN 
+00800898001598000013426980015                   R/D AGENCE NATIONAL DES GREFFES                                            GARIDI II  KOUBA - ALGER - 
+00800898001598000013523980015               R/D ORG.NL. PREV. LUTTE CTR I.L.T.I                                             09 RUE ABOU NOUASSE HYDRA 
+00800898001598000013620980015          R/D HAUTE INST. INDEP. SURVEIL. ELECTION                               VILLA RAIS HAMIDOU - AL MADANIA - ALGER 
+00800898001598000013717980015                R/D ORGANE NL PROTEC.PROMO.ENFANCE                                     10 RUE AHMED OUEKED , DELY BRAHIM 
+00800898001598000007121980015                        REGIE DEPENSE DE L'E.N.P.C                                                        BORDJ EL BAHRI 
+00800898001598000008091980015                    REGIE DEPENSE DE L'I.N.F.S.C.J                                       MADANI SOUAHI TIXERAINE BP N?41 
+00800898001398000031090980013                                     BEARCIA LEILA                               CITE 1600 LOGTS BT 36 NO 06 EUCALYPTUS  
+00800898001398000036813980013           C.O.S INST NL PED DE FORMAT PARAMEDICAL                                           CHEMIN VAUBAN   HUSSEIN DEY 
+00800898001398000050975980013                             DJERADI LEITMAS LAMIA                                       368 PARC BEN OMAR KOUBA -ALGER- 
+00800898001598000000331980015            R/D CENTRE NL DE PREV ET SECU ROUTIERE                                              RUE FRERE MOKHTARI H.DEY 
+00800898001598000002659980015           R/D CENTRE DE RECHE JURIDIQUE JUDICIERE                                               BD TELA HASSENE CHERAGA 
+00800898001598000005278980015              REGIE DEPENSE DE L'E.H.E.C (ex ENSC)                                      11, CH DOUDOU MOKHTAR BEN AKNOUN 
+00800898001598000008188980015                        REGIE DEPENSE DE L'I.N.M.V                                       BP N?125 HACENE BADI EL HARRACH 
+00800898001398000003639980013                      BENTOURA NEE LOUKKAL ZOUBIDA                                         05, RUE DEBBIH CHERIF   ALGER 
+00800898001198000003843980011               INST DE TECHNO DES GRANDES CULTURES                                      01, AVE PASTEUR BP 16 EL HARRACH 
+00800898001198000006559980011             AGENCE NLE DES RESSOURCES HYDRAULIQUE                                       40, RUE MOHAMDI BIR MOURAD RAIS 
+00800898001198000015192980011                 CENTRE NL DE LA MEDECINE DU SPORT                                            CITE OLYMPIQUE MED BOUDIAF 
+00800898001198000020042980011                       MUSEE PUBLIC NATIONAL BARDO                                         3 RUE FRANKLIN ROSEVELT ALGER 
+00800831001431000001256980014              FONDS PARTICULIERS CHEQUES CERTIFIES                                                                       
+00800898001398000000923980013                                    DEHILIS FATIHA                               RUE ALI KHODJ  VILLA 9 BORDJ EL KIFFANE 
+00800898001398000001796980013                    SEMRANI NEE BELKACEMI MERZOUKA                                         02,RUE ISMAIL BOUDERBA CASBAH 
+00800898001398000001893980013                                 IHADDADEN OUARDIA                              BANANIER BT 39 N? 07 EL MOHAMMADIA ALGER 
+00800898001398000002087980013                   MOUSSAOUI  NEE  OUBALAR ZOUBIDA                                              37 AVE COLONEL LOTFI BEO 
+00800898001398000002184980013                                   OUICI    MALIKA                                          BT O ESC 6  RUE BASTO  ALGER 
+00800898001398000002281980013                                       RABIE SAFIA                                                                 ALGER 
+00800898001398000002378980013                                   BENBRAHIM ZOHRA                    RUE CHEIKH EL OURTILANI BT 7 N? 1 DAR EL BEIDA ALG 
+00800898001398000002475980013                                  BRIKH     KHEIRA                            05 RUE DES PATIOSSE CLIMAT DE FRANCE ALGER 
+00800898001398000003057980013                                    HAMAD    ZAHIA                              11 RUE AIBOUD ABDERAHMANE CASBAH   ALGER 
+00800898001398000003348980013                                   OUMEDOUR FARIDA                           08 ROUTE D'OUEL FAYET LAMARA CHERAGA  ALGER 
+00800898001398000004318980013                                BENSLIMANE HADJIRA                                    621 LOG BT C2 N?1 EUCALYPTUS ALGER 
+00800898001398000004512980013                                    HELLALI YAMINA                          8 RUE HASSIBA BEN BOUALI SIDI M'HAMED  ALGER 
+00800898001398000009362980013                                    MENANI   SOUAD                                           CITE MIHOUB BOUFARIK  BLIDA 
+00800898001398000010138980013                                   BESTAL    FELLA                             CITE 2068 LOG BT37 N?5 BAB EZZOUAR  ALGER 
+00800898001398000011593980013                                 BENYACOUB  AHCENE                            UNIV BOUZAREAH RUE DJAMELEDDINE EL AFGHANI 
+00800898001398000014018980013                                    HABCHI LAHCENE                              LOTISSEMENT KAITI LOT N?1 STAOUELI ALGER 
+00800898001398000014309980013                                   HIMRANE MOHAMED                                05, RUE RACHID FERHAT BELCOURT   ALGER 
+00800898001398000000341980013                                BOUATTA ABDELHAKIM                                    13, RUE DJURDJURA BEN AKNOUN ALGER 
+00800898001398000000632980013                                  BELFODIL ATHMANE                                      02, AVENUE DU 1ER NOVEMBRE ALGER 
+00800898001398000001117980013                                  OUADJAOUT SAMIHA                                   CITE DES ANASSERS BT 809 N?15 KOUBA 
+00800898001398000001311980013                         LABGAA NEE BENHALA FATIHA                                          55 RUE HALES SAID ELMOURADIA 
+00800898001398000014891980013                               KHELIL CHAREF RABEA                                  HBM 1ER GROUPE BT1 ROUISSEAU   ALGER 
+00800898001398000015570980013                                    REMICHI TOUFIK                                   5, RUE BOUALEM DIOUANI EL ANNASSERS 
+00800898001398000016055980013                                MOULAHCENE MOHAMED                                         BT23 CAGE B APPT 02 BOUMERDES 
+00800898001398000017025980013                             BOUTABA SAMIR MOHAMED                                     88, AVE COLONEL LOTFI BAB EL OUED 
+00800898001398000018965980013                                  ZEMMOUR  HACHEMI                           CITE DES 250 LOGT BT A C N?3 CHERAGA  ALGER 
+00800898001398000019450980013                                       SID  SORAYA                            CITE 8 MAI 45 BT 14 UV 7 N?28 B.E.Z  ALGER 
+00800898001398000019741980013                                      HARZELLI ALI                                                     04 RUE YOUSFI MED 
+00800898001398000021972980013                BENMERZOUG NEE HAMICI CHEMS EDHIAT                            21, RUE DU GENIE BEL AIR BACHDJARRAH ALGER 
+00800898001398000023912980013                                      AZIZ MOHAMED                                         01 IMPASSE DES DRUSSES CASBAH 
+00800898001398000024203980013                                      MEGAT NABILA                                                                 ALGER 
+00800898001398000024591980013                                    BOUBEKRI AHMED                                 LOT B14 RAS EL FORN DELY BRAHIM ALGER 
+00800898001398000024688980013                                BOUADJNEK MAGDOUDA                                 8 MAI 45 BT 51 N?4 GUE DE CONSTANTINE 
+00800898001398000025173980013                                    KORICHI MALIKA                                    87 AVENUE ALI KHODJA EL BIAR ALGER 
+00800898001398000026628980013                       TILMATINE ABDERAZEK TOUHAMI                                  CITE DIAR EL AFIA BT 3 N? 4 BOUROUBA 
+00800898001398000028471980013                                HAMIDOUCHE MOKHTAR                               CITE 420 LOG HAMIZ  DAR EL BEIDA  ALGER 
+00800898001398000028859980013                                 BENBACHIR MOHAMED                                        08, RUE NOCARD DIDOUCHE MOURAD 
+00800898001398000029150980013                                       NOUI  AHMED                                21 CHEMIN AREZKI YACEF BOLOGHINE ALGER 
+00800898001398000032836980013                                  CHETTOUH   AMINA                                    CITE SIDI EL KEBIR 11 RAIS HAMIDOU 
+00800898001398000033127980013                                  LADJEREM   AHLEM                                             35, ROUTE NEUVE BOUZAREAH 
+00800898001398000039626980013                         BOULKRAA ZOHRA VVE BELLAL                                                 08, RUE LIBERTE ALGER 
+00800898001398000042051980013                                  BOUDOUDA HAYETTE                                     53, RUE MOHAMED GACEM EL MOURADIA 
+00800898001398000044670980013                                   BENCHARIF AZIZA                                 22  RUE AHMED ADIM MOHAMED BELOUEZDED 
+00800898001398000045058980013                                  ZEMMOUCHI KHALED                        CITE DIAR EL KAF BT A N?3/5 OUED KORICHE ALGER 
+00800898001398000048550980013                                   HASNAOUI HAFIZA                                        41 RUE ABOU HAMOU MOUSSA ALGER 
+00800898001398000049617980013                            MME MAIZ LYAKOUT ALILI                                        CITE 01 BT 23 N?10 BACH DJARAH 
+00800898001398000052139980013                                    TOUIBEG SIDALI                           CITE 02 BT H 08 N?5 EL MAGHARIA HUSSEIN DEY 
+00800898001398000054467980013                                  BOUCHERIT  SAMIA                            CITE 20 AOUT BAT=K N?12 BACHDJARRAH-ALGER- 
+00800898001398000054661980013                            KRIM  REDOUANE EL HADI                                           34 RUE DEBIH CHERIF -ALGER- 
+00800898001398000054952980013                                   NAILI  ABDELHAK                                03 RUE DES 03 FRERES BELAISSI- MAHELMA 
+00800898001398000055049980013                                   MOKHTARI  AHMED                        ECOLE MUSTAPHA B-BOULAID B(A) N?04 BACHEDJERAH 
+00800898001398000055340980013                                  KHERROUB HASSINA                                 CITE SOUMMAM BT 30 N?21 -BAB EZZOUAR- 
+00800898001398000002572980013                                  BAILECHE KHOUKHA                              MAZRAAT BEN BOULAID N?19 BOUROUBA  ALGER 
+00800898001398000002960980013                                CHOUDAR    EMBARKA                             21 RUE EL ANSSAR CLIMAT DE FRANCE   ALGER 
+00800898001398000003251980013                                        kaya nadia                                                                       
+00800898001398000004124980013                                     BOUGUERN NORA                             21 RUE GANTRA MANAK OUED KOURIECHE  ALGER 
+00800898001398000004706980013                              KHELIFI-AHMED NACERA                                   32 RUE RACHID KOUACHE B.E.O   ALGER 
+00800898001398000004997980013                         AMRANE  vve RAHEB DJAMILA                               CITE CHEVALIER BT 9 OUAD KORACHE  ALGER 
+00800898001398000026046980013                                  AOUINE   SOUHILA                           CITE DES FONCTIONNAIRES BT B3 EL BIAR ALGER 
+00800898001398000013048980013                                 DJELLAKH MUSTAPHA                                             DOMAINE DOUZI MOHAMED BEZ 
+00800898001598000007412980015                          REGIE DEPENSE DU C.N.D.P                                         01, RUE MOHAMED KHELIFI H.DEY 
+00800898001398000001602980013                                    BELAHCENE ZINA                                 AVE AMAR EL KANA IMPASSE N? 103 ALGER 
+00800898001298000001704980012                                 ARAB BANK ALGERIA                                               23, PLACE EL QODS HYDRA 
+00800898001398000002766980013                           HAMI NEE MAKHLOUF FATMA                                  29 RUE HOCINE BOURAHLA CASBAH  ALGER 
+00800898001398000016540980013                                      NEDJAR ZAHIA                                 CITE AADC BT 10 N?37 MOURADIA   ALGER 
+00800898001398000021002980013                       GUENDOUZ NEE DJOUIMAI ASSIA                                 03 BD BASTA  ALI  BT A  B.E.O   ALGER 
+00800898001398000022942980013                                KHITATI  YOUCEF                                CITE 1827 log Bt06 N? 56 SEBALA EL ACHOUR 
+00800898001398000007422980013                                     MOUNIB SORAYA                           HAI MAKOUDI 2 LOT 130  BAB EZZOUAR    ALGER 
+00800898001398000012854980013                                     DAHEL DJAMILA                                 LOT EL GHAZALI N?57 BOUZAREAH   ALGER 
+00800898001198000001903980011                CONSEIL NLE  DES DROITS DE L'HOMME                                                PALAIS DU PEUPLE ALGER 
+00800898001198000003649980011          ETS NL DES EQUIP TECH PEDAG-DE LA FOR PR                                         11, RUE ALI HADDAD BELOUIZDAD 
+00800898001198000005686980011                            HAUT CONSEIL ISLAMIQUE                                    06, BD 11 DECEMBRE 1960 BEN AKNOUN 
+00800898001198000007044980011            HOPITAL MILITAIRE UNIVERSIT SPECIALISE                                                     BP N? 83 STAOUELI 
+00800898001198000016162980011          INS.NL.DE CRIMINOLOGIE ET CRIMINALISTIQU                                                        INCC BOUCHAOUI 
+00800898001198000019654980011          CTRE NL PEDAG  LINGUIST ENSEIGNE TAMAZIG                               Bd DE L'INDEPENDANCE  QASR ACHAAB ALGER 
+00800898001298000001025980012                  ARAB BANKING CORPORATION ALGERIA                                  54, AVE DES TROIS FRERES BOUADOU BMR 
+00800898001398000000729980013                                    GOUATSOU KARIM                                   LOT LA CARRIERE C38 EL MARSA  ALGER 
+00800898001398000004221980013                                        SADAT BAYA                                  48 BOUL DE LA VICTOIRE CASBAH  ALGER 
+00800898001398000018383980013                                 LARAB     MOHAMED                             CITE 1036 BT 19 GUE DE CONSTANTINE  ALGER 
+00800898001398000021196980013                                  BENSEBTI MOHAMED                            CITE POLICE BT 05 N? 03 HEURAOUA  ALGER .. 
+00800898001398000021681980013                           ZIOUD REDA ABDERRAHMANE                                                06 RUE BARBES    ALGER 
+00800898001398000024494980013                                  RANOU ABDELKADER                                34, LOTISSEMENT DES ROSES BAINEM ALGER 
+00800898001398000005773980013                                    LAIDOUCI AHMED                                     20RUE DAHIN MESSAOUD H-DEY  ALGER 
+00800898001398000008004980013                                   SEGHEIR    SARA                                              BP 98 OUED SEMAR  ALGER  
+00800898001398000010235980013                                  AZZOUG   MOHAMED                                    LOT 71 SIDI HASSENE CHERAGA  ALGER 
+00800898001398000011205980013                                  BENAISSA   AHMED                                   43, RUE RACHID KOUACHE B.E.O  ALGER 
+00800898001398000013533980013                                      GRIOUA ZAHIA                            CITE DIAR EL MAHSOUL BT J N? 41 EL MADANIA 
+00800898001198000000448980011                               AGENCE NLE  DU SANG                                   ROUTE DU KADOUS TIXERAIN BIR KHADEM 
+00800898001198000002097980011          CENTRE NTL DE LA CINEM ET DE L'AUDIO VIS                                                   03, BD FRONTZ FANON 
+00800898001198000003455980011                ECOLE SUPERIEUR DE LA MAGISTRATURE                                           BD 11 DECEMBRE 1960 EL BIAR 
+00800898001198000004813980011                INST NL DE LA FORM PROFESSIONNELLE                                              09, CHEMIN HYDRA EL BIAR 
+00800898001198000006268980011                 INST DIPLO ET DES RELATIONS INTER                                      RUE LES FRERES ZIATA EL MOURADIA 
+00800898001198000009760980011                    CONSEIL SUP DE LA MAGISTRATURE                                      09, AVE DES FRERES BOUADOU B.M.R 
+00800898001198000015289980011          LAB.NL.DE DEPIST.ET LUTTE CONT.LE DOPAGE                               CITE OLYMPIQUE MED BOUDIAF-DELY BRAHIM- 
+00800898001198000019169980011          OBSERVATOIRE NL DE L'EDUC ET DE LA  FORM                                         LYCEE AMARA RACHID BEN AKNOUN 
+00800898001198000022176980011          ECO.NLE.CONSERV.RESTAU.DE BIENS CULTUREL                          PALAIS DAR ESSOUF-01 PLACE HENRI KLEIN-ALGER 
+00800898001298000000249980012                        CREDIT POPULAIRE D'ALGERIE                                        01, RUE EMIR EL KHETTABI ALGER 
+00800898001298000000346980012                       BANQUE EXTERIEURE D'ALGERIE                                 11,BOULEVARD COLONEL AMIROUCHE  ALGER 
+00800898001298000000443980012                        BANQUE NATIONALE D'ALGERIE                                  8 BOUL ERNESTO ''CHE''GUEVARA  ALGER 
+00800898001298000000540980012                             AL SALAM BANK ALGERIA                              RUE AHMED OUAKED N?233 DELY IBRAHIM ALGE 
+00800898001298000000637980012                       CREDIT AGRICOLE CIB ALGERIE                                    LES PINS MARITIMES MOHAMADIA ALGER 
+00800898001298000000734980012          BANQUE DE L'AGRICULT ET DU DEVELOP RURAL                                              17, BD COLONEL AMIROUCHE 
+00800898001298000000831980012                     BANQUE DE DEVELOPPEMENT LOCAL                                     38, RUE DES FRERES BOUADDOU B.M.R 
+00800898001298000000928980012                        BANQUE AL BARAKA D'ALGERIE                                BLOC 6 A 29 RESID CHAABANI VAL D'HYDRA 
+00800898001298000001122980012                          SOCIETE GENERALE ALGERIA                           RESIDENCE EL KERMA 16105 GUE DE CONSTANTINE 
+00800898001298000001219980012               CAISSE NLE DE MUT AGRICOLE (BANQUE)                                                    17, BD VICTOR HUGO 
+00800898001298000001316980012                         FRANSABANK spa EL DJAZAIR                              45 B, Lot Provence , Hydra  16405  Alger 
+00800898001298000001413980012                                   NATIXIS ALGERIE                      imble ksar zone d'affaire mercure lot 34/35 BEZ  
+00800898001298000001510980012           THE HOUSING BANK FOR TRADE &FINANCE ALG                                      16, RUE AHMED OUAKED DELY BRAHIM 
+00800898001298000001607980012                             CITI BANK N.A ALGERIA                                             07, RUE LARBI ALLIK HYDRA 
+00800898001298000001801980012                             GULF BANK ALGERIE-SPA                                       17,CHEMIN MAC CLAY SIDI MERZOUG 
+00800898001298000001995980012                      B.N.P PARIBAS EL DJAZAIR-SPA                                              10, RUE ABOU NOUAS HYDRA 
+00800898001298000002092980012                                TRUST BANK ALGERIA                                          07, CHEMIN LARBI ALLIK HYDRA 
+00800898001398000000147980013                                   BENHAMOU RACHID                                     02, AVENUE DU 1ER NOVEMBRE  ALGER 
+00800898001398000000244980013                                    MALLEK MOHAMED                                         420 LOG EL HAMIZ DAR EL BEIDA 
+00800898001398000000438980013                                 MEDJEROUB MOHAMED                            51 BOULEVARD SAID TOUATI BAB EL OUED ALGER 
+00800898001398000000535980013                                     SLIMANI FARID                                  CITE 1306 LOG BT A AIN NAADJA  ALGER 
+00800898001398000000826980013                                       KHERCHI ALI                                  10, RUE MOHAMED TAZAIRT  B.E.O ALGER 
+00800898001398000001020980013                                    BAAZIZ MOUFIDA                        ECOLE TAREK IBN ZIAD CITE LA MONTAGNE BOUROUBA 
+00800898001398000001214980013                                 TILMATINE CHAHIRA                                CITE DU 8 MAI 45 BT 4C N?4 BAB EZZOUAR 
+00800898001398000001408980013                                  GOUATSOU BOUSSAD                             LOT LA CARRIERE VILLA C 38 EL MARSA ALGER 
+00800898001398000001505980013                                     HANIFI FATIMA                                            CITE 300 LOGT BORDJ MENAIL 
+00800898001398000002669980013                             BOUTELDJA FATMA ZOHRA                                      03 AVENUE MOKRANE CHAALI   ALGER 
+00800898001398000002863980013                        BABASSI NEE LAIDOUNI ZAHIA                                      8 AVENUE DU 1ER NOVEMBRE   ALGER 
+00800898001398000003154980013                            HAMICI NEE HANED NADIA                                08,RUE DES PIRATES RAIS HAMIDOU  ALGER 
+00800898001398000003445980013                                    KHELIFA WAHIBA                                 11 RUE AIBOUD A/RAHMANE CASBAH  ALGER 
+00800898001398000003542980013                                     SAIHI  HOURIA                                           6 RUE MED ARAB CASBAH ALGER 
+00800898001398000003736980013                                   BENSEMEN WAHIBA                                   10 RUE MED AKLI MALEK CASBAH  ALGER 
+00800898001398000003833980013                                   ABBOU    FATIHA                                   02, AVENUE DU 1ER NOVEMBRE  ALGER   
+00800898001398000003930980013                                BEN ACHOUR CHAFIKA                                    66 RUE BD SAID TOUATI B.E.O  ALGER 
+00800898001398000004027980013                     MEGHSLI NEE YAHIA AISSA ZOHRA                                         GROUPE 2 BT F 1ER MAI   ALGER 
+00800898001398000004415980013                                     BARKA DJAHIDA                               917 LOG BT 44 N? 584  EUCALYPTUS  ALGER 
+00800898001398000004609980013                                LAOUFI FATMA ZOHRA                         CITE DIAR EL KEF BT A N? 7 OUED KORICH  ALGER 
+00800898001398000004803980013                                     SMAINI FATIHA                               CITE 190 Log BENTALHA - BARAKI -  ALGER 
+00800898001398000005094980013                         LOUKKAL HAMDA  MERBAH NEE                                 CITE BIRAZE BT D OUED KORICHE  ALGER  
+00800898001398000005191980013                                  SEGHIERI ESSAYDA                                                    BP N? 73 BIS ALGER 
+00800898001398000005288980013                                  ADIL FATMA ZOHRA                                         2068.BT39 3- etage N?6  B.E.Z 
+00800898001398000015861980013                                    LADJICI MAHREZ                           CITE DES EUCALYPTUS BT G N? 26 BACH DJARRAH 
+00800898001398000015958980013                                     MEKARNIA OMAR                               CITE BAG MOHAMED BT T N?9 KOUBA   ALGER 
+00800898001398000016152980013                       MALLEK NEE BENMALEK  NACERA                            420 LOGTS BT 3 EL HAMIZ DAR EL BEIDA ALGER 
+00800898001398000016249980013                                     MOHDEB  SALIM                                    CITE BAG MOHAMED BT4  KOUBA  ALGER 
+00800898001398000016346980013                                MECEBBEB ABDELKRIM                             16,RUE A.E.B MESSAOUDI LES TAGARINS ALGER 
+00800898001398000016443980013                                     MEABIOU SAMIA                                   10, RUE VILLA VELLE FLEURIE EL BIAR 
+00800898001398000016637980013                                     RACHEDI AHMED                              CITE BACH DJARRAH BT2 CAGE 7 N?01  ALGER 
+00800898001398000016734980013                        RAHMANI  BOUDAHDIR  FOUZIA                                     15, RUE AIBOUD ABDERAHMANE  ALGER 
+00800898001398000016831980013                                     SLIFI MOHAMED                                       19, RUE DES FRERES DRAOUI B.E.O 
+00800898001398000016928980013                                      TAYANE AISSA                                                         ENSP EL MARSA 
+00800898001398000017122980013                           TOUATI OURIDA NEE HAMDI                                 03, RUE CHATEAU ROUGE N?42 EUCALYPTUS 
+00800898001398000017219980013                                     TOUMI HOUCINE                         37, CHEMIN MOHAMED OURIL NOTRE DAME D'AFRIQUE 
+00800898001398000017316980013                                   TOUNSI    FATEH                              02, RUE DES FRERES TOUIL LEVEILLER H.DEY 
+00800898001398000017413980013                                   YOUB    RAMDANE                                17, CITE BEAU SEJOUR  BOUZAREAH  ALGER 
+00800898001398000017510980013                  BENHAMOU NEE ZEFANINE    DJAMILA                                     02 AVENUE DU 1ER NOVEMBRE   ALGER 
+00800898001398000017607980013                                    ZAIT    TOUFIK                             16, RUE DES PATIOS CLIMAT DE FRANCE ALGER 
+00800898001398000017704980013                            ZEMMOUR     ABDELKADER                              CITE PAUL BAIR IMM D OUED KORICHE  ALGER 
+00800898001398000017801980013                             BENHADDADI    YASMINA                                     82, RUE DES FRERES BELLILI  ALGER 
+00800898001398000017995980013                               DJEBBARA     MOURAD                                CITE MALKI BT H CAGE 10 EL BIAR  ALGER 
+00800898001398000018092980013                                 MECHTI     KARIMA                                   29, RUE MOHAMED SEGHIR SAIDAOUI ... 
+00800898001398000018189980013                                  OUABA    MOHAMED                               CITE MUSULMANE 2EME RUE N?5 BACHDJARRAH 
+00800898001398000018286980013                                   NOUGHI      ALI                             CITE DIAR EL KEF BT C 4 N?8  B.E.O  ALGER 
+00800898001398000018480980013                                  SAHALI   MOHAMED                               212 AVENUE ZIAR A/KADER BOLOGHINE ALGER 
+00800898001398000018577980013                                 TABET  BADREDDINE                            COOPERATIVE IMOMOB DJEBEL FELAOUCENE ALGER 
+00800898001398000018674980013                             TAGUEMOUNT  AZZEDDINE                         CITE FATMA N'SUMER 01 LOT E N?12 DAR EL BEIDA 
+00800898001398000018771980013                                     ZAIT   HOCINE                                     25  RUE DES FRERES BELLILI  ALGER 
+00800898001398000018868980013                                   ZEKRAOUI RACHID                        RUE 06 N?09  LOT LAIDOUCI  EUCALYPTUS    ALGER 
+00800898001398000019062980013                                    ZEMOURI  KARIM                              CITE 1827 LOGTS BT 21N?01 SEBALLA  ALGER 
+00800898001398000019159980013                               CHETEOUANE  MOHAMED                                       CITE 08 MAI 1945 BT 41 N?36 BEZ 
+00800898001398000019256980013                           BOUZEMADA  ABDERRAHMANE                                      3 RUE AHCENE ALIANE  BEO   ALGER 
+00800898001398000019353980013                                  CHOUIHI  MOHAMED                                    ROUTE DE LA PC N?13 BORDJ EL BAHRI 
+00800898001398000019547980013                                 DJABOURABI  SIHEM                                66 AVENUE ZIAR A/KADER BOLOGHINE ALGER 
+00800898001398000019644980013                                     MOUCI   BAHIA                                        11 BD SAID TOUATI  BEO   ALGER 
+00800898001398000019838980013                             KHEDDACHE  NOURREDINE                                83 RUE MONT PLAISANT OUED KORICH ALGER 
+00800898001398000019935980013                               BENHAMOUCHE  SAMIRA                                     BP 04  AVENUE 1er NOVEMBRE  ALGER 
+00800898001398000020032980013                                     BAYOU   HAMID                                   CITE DES 20LOGTS SAID HAMDINE ALGER 
+00800898001398000020129980013                                       BAKEL  AMAR                          CITE DES ANNASERS 2 BT A 25 N? 3 KOUBA ALGER 
+00800898001398000020226980013                                  HAMADOU   RACHID                                      LOT BARDEY N?26 BOUZAREAH  ALGER 
+00800898001398000020323980013                                 LEBOUACHKA  KARIM                                     VAL D'HYDRA BT C 18  HYDRA  ALGER 
+00800898001398000020420980013                                 LANASRI  MUSTAPHA                                     93 RUE MEGHNOUCHE BIRKHADEM ALGER 
+00800898001398000020517980013                                     GRINE  KARIMA                                09, RUE FAYCAL MBAREK BELCOURT ALGER   
+00800898001398000020614980013                                   DJERRAH  KHALED                          CITE 360 LOGT BT D 36 N? 10 BEN AKNOUN ALGER 
+00800898001398000020711980013                              CHAMAM  ABDERRAHMANE                                                04 RUE WARNIER   ALGER 
+00800898001398000020808980013                                  CHOUGUI   NABILA                              29 AVENUE DU 1 ER NOVEMBRE CASBAH .ALGER 
+00800898001398000020905980013                                 TOBNI FATMA ZOHRA                                              BP N?36 PORT SAID  ALGER 
+00800898001398000021293980013                               LAZAZI ATTIG  FATEH                                       34, RUE DJBEL BOUZEGZA    ALGER 
+00800898001398000021390980013                                 HAOUCHINE MOHAMED                        CITE 2540 Lgt ILOT A21 BT F4 N?01 AIN NAADJA   
+00800898001398000021487980013                                       HANIFI SAID                        CITE 300 LOG BT K N?195 BORDJ MNAIEL BOUMERDES 
+00800898001398000021584980013                           MECHTI MOHAMED ABDELHAK                              29, RUE MED SEGHIR SAADAOUI  B.E.O ALGER 
+00800898001398000021778980013                                  MEHERHERA  SALAH                                39 RUE MONTPLAISANT OUED KORICHE ALGER 
+00800898001398000021875980013                                   TAKILT  MOKRANE                            CITE CHEVALIER BT C CLIMAT DE FRANCE ALGER 
+00800898001398000022069980013                              ABDELHAMID   REDA                                   BD HAHHAD ABDERAZEK BT B CASBAH  ALGER 
+00800898001398000022166980013                                KHAROUBI   MOHAMED                              12 RUE DES FRERES BOURABA BELCOURT ALGER 
+00800898001398000022263980013                                    HAMLAT   AHMED                                     RUE MOHAMED MAHMOUDI BARAKI ALGER 
+00800898001398000022360980013                                       MERAD  REDA                                  04 RUE DE LA FONTAINE EL BIAR  ALGER 
+00800898001398000022457980013                                    CHERCHAM HAMZA                                          01 RUE MED TAZAIRT BEO ALGER 
+00800898001398000022554980013                                     TAIBI  KARIMA                                     03, RUE PIERRE LOTI B.E.O   ALGER 
+00800898001398000022651980013                                      AINAR  NAIMA                          02, RUE BOUZNIDI  SALEM PLACE 1ER MAI  ALGER 
+00800898001398000022748980013                                  BENYOUNES  SAMIR                              05 RUE CHAAL ABDELKADER  BELCOURT  ALGER 
+00800898001398000022845980013                                    BOUTITE  OUIZA                                      18 RUE OMAR BEN AISSA BEO  ALGER 
+00800898001398000023039980013                                 LAKHDARI  SOUHILA                         CITE DIAR EL AFIA BLOC 3 N? B3 BOUROUBA ALGER 
+00800898001398000023136980013                                 CHENICHENE KARIMA                                       20 RUE AEK ABDOUNE B.E.O  ALGER 
+00800898001398000023233980013                                    BENMAHIDI AMEL                                         08, AVE DU 1ER NOVEMBRE ALGER 
+00800898001398000023330980013                                   chebanne brahim                                                                       
+00800898001398000023427980013                                     CHIKHI KHALED                                   02, RUE MAURIS RAFED BD MED 5 ALGER 
+00800898001398000023524980013                                     OUFAI MOULOUD                                         09, RUE AHCENE ALIANE   B.E.O 
+00800898001398000023621980013                             HADJ TAYEB ABDELHAKIM                                      15, RUE MOUZAOUI ABDELAZIZ ALGER 
+00800898001398000023718980013                                   MOUSSEK MOHAMED                                     CITE ARMAF BT A2 EL HARRACH ALGER 
+00800898001398000023815980013                                      SAHEL KHALED                                         AIR FRANCE BENI MASSOUS ALGER 
+00800898001398000024009980013                                        SEHEL LYES                                 AVE ASEKRI AHCENE BT F1  B.E.O  ALGER 
+00800898001398000024106980013                                AMEUR FATIMA ZOHRA                                             204 HAOUCHE MIHOUB BARAKI 
+00800898001398000024397980013                       BATTOUCHE BARAOUAT MUSTAPHA                                        14, BD TALEB ABDERAHMANE ALGER 
+00800898001398000024785980013                       REGUIEG BELARBI NACEREDDINE                                        38, RUE MOUSSA HAMADECHE ALGER 
+00800898001398000024882980013                                    MERROUCHE OMAR                                       04, LOT DES ROSES BAINEM  ALGER 
+00800898001398000024979980013                                    KECHAM CHAOUKI                                 128 RUE DJENAN MEBROUK BADJARAH ALGER 
+00800898001398000025076980013                                     DANI    YAHIA                               25 BOUDJAMAA KHELIF OUED ROUMANE  ALGER 
+00800898001398000025270980013                                        ZYAT  AMEL                                          MEZI HAMID SHOUELA     ALGER 
+00800898001398000025367980013                                  KHETTAL  BOUALEM                                   16 BD TALEB ABDERRAHMANE BEO  ALGER 
+00800898001398000025464980013                                BENHAROUN OUASSILA                                  CITE REPAL CAP CAXINE BAINEM   ALGER 
+00800898001398000025561980013                                  SEDKAOUI  HOCINE                                     36 RUE ALI  MECHKAL  B.E.O  ALGER 
+00800898001398000025658980013                           DJELLAB NEE GHIAT  NIDA                              CITEE OULAMI AHMED Bt11 N?20 OULED FAYET 
+00800898001398000025755980013                                BOUCHICHA  FADHELA                             RUE BOUDOUA TAHAR BT C N?1 BELCOURT ALGER 
+00800898001398000025852980013                                   BEDRANE  YOUCEF                                    13 RUE JEAN RICHEPIN TELEMLY ALGER 
+00800898001398000025949980013                                  BENSALEM  DJAMEL                               08, LOTISSEMENT DES ROSES  BAINEM ALGER 
+00800898001398000026143980013                                   BEREZIG  MOURAD                                  6 RUE CRITIPHE COLOMBE  B.E.O  ALGER 
+00800898001398000026240980013                                BENAMRANE EL MEKKI                          CITE DIAR EL SAADA BT B N?8 EL MADANIA ALGER 
+00800898001398000026337980013                               BELKHIR  NOUREDDINE                               RUE BOUDJEMAA KHLIL OUED EROUMANE ALGER 
+00800898001398000026434980013                               BOUTALBI BENCHERGUI                                    SIDI BOU LAHROUZ CHERCHELL  TIPAZA 
+00800898001398000026531980013                                 OUKACI  BENYOUCEF                                       18, RUE HOCINE BEN CHIKHA KOUBA 
+00800898001398000026725980013                                   LAKHAL  BOUSSAD                                       2 AVENUE DU 1ER NOVEMBRE  ALGER 
+00800898001398000026822980013                                    SALMI  DJAMILA                                  17 RUE MED NECHAR RAIS HAMIDOU ALGER 
+00800898001398000026919980013                                      CHIKH  NADIA                                   23 LOT SCOTTO NADAL BOUZAREAH ALGER 
+00800898001398000027113980013                             HACHEMI  NACER EDDINE                                  6 RUE DES FRERES ANCEURS  BEO  ALGER 
+00800898001398000005385980013                                   DRICI     LINDA                                    7 RUE SMAIL BOUDERBA CASBAH  ALGER 
+00800898001398000005482980013                                      MECHID SALIM                              CITE 14 LOG OULED HEDDADJ REGHAIA  ALGER 
+00800898001398000005579980013                                  EL DJOUZI HOURIA                                     89 COLONEL LOTFI   B.E.O    ALGER 
+00800898001398000005676980013                             BENABDERRAHMANE SAMIR                                  17 RUE DES FALAISES BAINEM    ALGER  
+00800898001398000005870980013                                OUCHEBARA MUSTAPHA                               01, RUE ZEBOUDJ MED AKLI  B.E.O   ALGER 
+00800898001398000005967980013                                   OUKIL ABDELAZIZ                                             BT B 29 N?8 LES BANANIERS 
+00800898001398000006064980013                                OULDAMRI   MOHAMED                            CITE RABIA TAHAR BT 236 BAB EZZOUAR  ALGER 
+00800898001398000006161980013                                   RACHEDI   AISSA                    CITE BOUZIANE BELKACEM BT 14 A N? 12 BOUGARA  BLID 
+00800898001398000006258980013                                      TAIBI MOURAD                               1016 LOG EL ACHOUR BT D 36 N? 09  ALGER 
+00800898001398000006355980013                                   MANANI EMBAREK                             LOT N? 29 CITE 20 AOUT BODJ EL BAHRI ALGER 
+00800898001398000006452980013                                      BEZZOU ZAHIA                          CITE DIAR EL DJEMAA BLOC 4 CAGE1 N?90  ALGER 
+00800898001398000006646980013                                   BOUCHAMA TOUFIK                                 55 A LOT CHARBONNIER BIRKHADEM  ALGER 
+00800898001398000006743980013                                      SASSI HOURIA                            LOT ESSANAOUBAR VILLA N? 8 BOUZAREAH ALGER 
+00800898001398000006840980013                              KALLOUCHE ABDELKADER                                   C/BAHRI ROUTE DE KOLEA FOUKA TIPAZA 
+00800898001398000006937980013                                    MEHIRI SABRINA                    CITE 450 LGTS BT N?19 ET 02 DABOUSSI.DRARIA  ALGER 
+00800898001398000007034980013                                     ZOUTAL BEDRIA                              BT N?17 CITE DESSOLIERS BOUROUBA   ALGER 
+00800898001398000007131980013                                      MOULLA HAYET                        9 RUE DES TROIS FRERES BOUADOU B.M.R     ALGER 
+00800898001398000007228980013                                      OUDAFAL AMEL                            36 CITE DIAR EL KHELOUA BT B  N.D.A  ALGER 
+00800898001398000007325980013                                    LAROUSSI SALMA                           CITE CHERIF BIDI BLOC 4 N?22 BOUROUBA ALGER 
+00800898001398000007519980013                             AIT BENAMAR ABDELAZIZ                                 LOT C 86 AIN BENIANE EL DJAMILA ALGER 
+00800898001398000007616980013                                   KADDOUR    RIMA                                   24 RUE MOHAMED BERRIKIA  BEO  ALGER 
+00800898001398000007713980013                         HAMAD   BETTACHE  DJAMILA                                          16 RUE DEBBIH CHERIF   ALGER 
+00800898001398000007810980013                                      KAOUINE REDA                                CITE NASSIM BT E N? 45 BOUZAREAH ALGER 
+00800898001398000007907980013                                      LAMRI MERIEM                          CITE 124 N? 30 EL JEMHOURIA EUCALYPTUS ALGER 
+00800898001398000008101980013                                 ATTATFA   FATIHA                                       5 RUE RENE BAZIN RUISSEAU  ALGER 
+00800898001398000008295980013                            AMIROUCHE   MAHIEDDINE                                      CITE TOUILEB N? 81 BARAKI  ALGER 
+00800898001398000008392980013                                    MARICHE NADJIA                        CITE BOUDOU 4 SAISONE GUE DE CONSTANTINE ALGER 
+00800898001398000008489980013                                 AOUDJ  ABDELHAMID                                            CAMEMD BP N?31 HAI EL BADR 
+00800898001398000008586980013                               BOUKERCHE  CHAHINEZ                      CITE NASSIM BT 22 N? 6 GUE DE CONSTANTINE  ALGER 
+00800898001398000008683980013                               ALAOUCHICHE  BOUZID                                       14 RUE AEK BEN ALI KHODJA ALGER 
+00800898001398000008780980013                                    KRIBES HASSIBA                              CITE LA MONTAGNE BLOC 2W1 BOUROUBA ALGER 
+00800898001398000008877980013                               BENKADDOUR   NACERA                             CITE 488 LOG BT A4 N?8 BACH DJARRAH ALGER 
+00800898001398000008974980013                          TIAR NARIMANE YAHIAT NEE                                    VILLA 19 LOT MALINE DOUERA  TIPAZA 
+00800898001398000009071980013                                       SAIFI AISSA                          49, CITE EL DJILLALI BEN TALHA BARAKI  ALGER 
+00800898001398000009168980013                                 BENMAKHLOUF TAREK                              BLOC C9 N?16 ETAGE N?4 OULED FAYET ALGER 
+00800898001398000009265980013                                IBADIOUNE    ATIKA                                   02, AVE TALEB MOHAMED CASBAH  ALGER 
+00800898001398000009459980013                   AOUDJ NEE STAMBOULI FATMA ZOHRA                                        14, RUE RACHID CHABOUBA  ALGER 
+00800898001398000009556980013                              ALI LAHMAR   BOUALEM                              CITE PEREZ BT J CLIMAT DE FRANCE   ALGER 
+00800898001398000009653980013                                     AROUS    LIES                                      05, RUE JEAN JAURES B.E.O  ALGER 
+00800898001398000009750980013                                ABZOUZI    MOHAMED                                 BACH DJARRAH BT N?39 C 08 N?09  ALGER 
+00800898001398000009847980013                                      KABLI RACHID                                   45, RUE MED BENGUENIF CASBAH  ALGER 
+00800898001398000009944980013                                    HAMDI    LEILA                             79, RUE MARCELLO FABRI LES SOURCES  ALGER 
+00800898001398000010041980013                               MECHEDDAL   NASSIMA                         CITE LA MONTAGNE BLOC 3 R N?7 BOUROUBA  ALGER 
+00800898001398000010332980013                                  AMRANE    DJAMEL                            07 RUE DES FRERES CHEKIROU STAOUELI  ALGER 
+00800898001398000010429980013                                 BELAYEL BOUKHALFA                        CITE ENSEIGN 294 LOG BT A N?8 AIN BENIAN ALGER 
+00800898001398000010526980013                                  BELKADI   RACHID                                   02, RAMPE LOUNIS AREZKI B.E.O ALGER 
+00800898001398000010623980013                                  BOUNEMRI  RACHID                                       CITE AADL HAI EL MOUSSALAHA BEZ 
+00800898001398000010817980013                                   BERROUANE  AMAR                        11, RUE MED LAMRI EL MAKARIA HUSSEIN DEY ALGER 
+00800898001398000010914980013                               BENMERZOUG   KHALED                           21, RUE DU GENIE CITE BEL BACHDJARAH  ALGER 
+00800898001398000011011980013                               BOUFENOUCHE  KARIMA                           CITE 632 LOG BT38 N?11 EL MOHAMMADIA  ALGER 
+00800898001398000011108980013                                 BENGUIZA   KARIMA                          CITE 488 LOG BT28 KB N?9 BACH DJARRAH  ALGER 
+00800898001398000011302980013                                BELARBI  ABDELKRIM                               38, RUE ZIAR ABDELKADER BOLOGHINE ALGER 
+00800898001398000011496980013                                    SASSI  MOKHTAR                                          14, RUE DEBBIH CHERIF  ALGER 
+00800898001398000011690980013                                  BOUDJERADA  SAAD                                     214 BIS RUE MED BELOUIZDAD  ALGER 
+00800898001398000011787980013                                     BRAHIMI  NORA                                         46, RUE DIDOUCHE MOURAD ALGER 
+00800898001398000011884980013                        BOUAMER NEE MANSOUR  SAIDA                              107 LOTISSEMENT BARANES BOUZAREAH  ALGER 
+00800898001398000011981980013                                BELAIBOUD  SID ALI                                01, RUE DES FRERES ACHACHE B.E.O ALGER 
+00800898001398000012078980013                                   BOUTALEB DJAMEL                             05, RUE MOKRANE OUACHEK CLIMAT DE FRANCE  
+00800898001398000012175980013                                  boughazi boualem                                                                       
+00800898001398000012272980013                              CHEROUATI ABDELGHANI                                    LOT G N?44 OUED EROUMANE EL ACHOUR 
+00800898001398000012369980013                                     CHOUIHA NEZHA                                          26, RUE ABANE REMDANE  ALGER 
+00800898001398000012466980013                              CHENIDER FATMA ZOHRA                                                   27 LOT SCOTTO NADAL 
+00800898001398000012563980013                        CHOUKRI BOUZIANI   MOHAMED                              39, LOT SCOTTO NADAL OUED KORICHE  ALGER 
+00800898001398000012660980013                                   DJOUDI BOUBEKER                               IMM 40 LOG N?35 SIS A ENTP GARIDI KOUBA 
+00800898001398000012757980013                                      DELMI HAMOUD                                    01, RUE SOUIDANI BOUDJEMAA CHERAGA 
+00800898001398000012951980013                                      DEKKAR KAMEL                           DIAR EL MAHSOL BT"I" N?43 EL MADANIA  ALGER 
+00800898001398000013145980013                                      FOUDI LOUNAS                        09, RUE IBN ABDERABIHI VILLA 16 BEAULIEU ALGER 
+00800898001398000013242980013                                    FRITIH DJAMEL                                CITE DU STADE BT 22 N?10 BOUFARIK BLIDA 
+00800898001398000013339980013                                 GUEDOUANI BOUALEM                                    3 RUE MERIEM ABDELAZIZ BEO   ALGER 
+00800898001398000013436980013                                      GACEM DJAMEL                                      2 RUE AEK BOUDA BELCOURT   ALGER 
+00800898001398000013630980013                                   GUELLOUR AHMED                                          39 RUE AHMED BOUZRINA   ALGER 
+00800898001398000013727980013                                   GHASSOUL AHMED                                     CITE 480 LOGTS BT 12 ESC 4 DERGANA 
+00800898001398000013824980013                                 GUECHTOLI MOHAMED                            36 CITE JAIS DEUX MOULINS BOLOGHINE  ALGER 
+00800898001398000013921980013                                    GAOUAOUI KAMEL                                             05, RUE DES LIBERES ALGER 
+00800898001398000014115980013                                   HAMDAOUI YOUCEF                                  CITE 8 MAI 45 BT 66 N?46 BAB EZZOUAR 
+00800898001398000014212980013                                  HANNACHE MOULOUD                              CITE 420 LOGT BT04 N?01 EL HAMIZ   ALGER 
+00800898001398000014406980013                                   HAMOUCHE MERZAK                        05, RUE SEBAA ET SON FILS SLIMANE B.E.O  ALGER 
+00800898001398000014503980013                                      IMAM MOHAMED                              CITE 360 LOG BT21 N?8 OULED YAICHE BLIDA 
+00800898001398000014697980013                        KHERROUBA NEE AOUAM MALIKA                                             02, RUE DES GETULES ALGER 
+00800898001398000014794980013                                    KAOUANE RACHID                             CITE LA MONTAGNE BLOC 4J5 BOUROUBA  ALGER 
+00800898001398000014988980013                                  KHELLASSI YOUCEF                                  02, RUE LOUIS MORITEAU KOUBA   ALGER 
+00800898001398000015085980013                                   KHELIL   SADJIA                              HLM 11 GROUPE BT C N?17 PLACE DU 1ER MAI 
+00800898001398000015182980013                                     KECHIDI DALIL                                               05 PLACE DU PEROU ALGER 
+00800898001398000015279980013                         KACIMI EL HASSANI   AHMED                                     11, RUE KHELIFA BOUKHALFA   ALGER 
+00800898001398000015376980013                                    KHELIFI ZOUBIR                               32 BIS RUE RACHID KOUACHE B.E.O   ALGER 
+00800898001398000015473980013                                   LEKHAL AZZEDINE                            05, RUE ABDELHAMID TATA BELFORT EL HARRACH 
+00800898001398000015667980013                                  LAHMAR ABDELKRIM                           CITE BAINEM BT K N?198 BAINS ROMAINS  ALGER 
+00800898001398000015764980013                        LERGAM NEE BOUCHAMA NACERA                                CITE 240 LOG BT F N?126 BAINEM   ALGER 
+00800898001198000000157980011                (ALGEX) ACE NLE DE PROM COMMER EXT                                     ROUTE NATIONALE N?05 CINQ MAISONS 
+00800898001198000000254980011           AGENCE NLE DU DEVE DE L'INVESTISSEMENT                                      27, RUE MED MERBOUCHE HUSSEIN DEY 
+00800898001198000000545980011           AGENCE NLE POUR LA CONSERV DE LA NATURE                                          EL ANNASSER B.P 115 RUISSEAU 
+00800898001198000000642980011                            AGENCE NLE DU CADASTRE                                            27, RUE M'HAMED BOUCHAKOUR 
+00800898001198000000739980011            ACADEMIE ALGERIENNE DE LA LANGUE ARABE                                       06, BD COLONEL BOUGARA  EL BIAR 
+00800898001198000000836980011                     ASSEMBLEE POPULAIRE NATIONALE                                                  18, BD ZIROUT YOUCEF 
+00800898001198000000933980011                            BIBLIOTHEQUE NATIONALE                                         BP N?127 EL HAMMA EL ANNASSER 
+00800898001198000001030980011           CENTRE NLE D"APP DES INV-VICT-DE GUERRE                                      BP N?44 ROUTE ERRAHMANIA  DOUERA 
+00800898001198000001127980011                           CONSEIL CONSTITUTIONNEL                                          BD 11 DECEMBRE 1960  EL BIAR 
+00800898001198000001418980011              CONSEIL SUPERIEUR DE LA LANGUE ARABE                                       06, BD COLONEL BOUGARA  EL BIAR 
+00800898001198000001515980011                                      COUR SUPREME                                               RUE 11 DECEMBRE EL BIAR 
+00800898001198000001612980011           CENTRE D'APP ET MAINT  EQUIP MOY DIDACT                                                   BP N?31 HAI EL BADR 
+00800898001198000001806980011                      CENTRE DES ARCHIVES NATIONAL                                38, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001198000002194980011                 CENTRE NL DE DOCUMENTATION PEDAG                                                01, RUE MOHAMED KHELIFI 
+00800898001198000002291980011                  CONSEIL NTL ECONOMIQUE ET SOCIAL                                 03,RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001198000002485980011           CENTRE.NATION.CONTRO.CERTIF.SEMEN.PLANS                                   06, RUE BIS FRERES OUDAK EL HARRACH 
+00800898001198000002582980011                              CONSEIL DE LA NATION                                                  07, BD ZIROUT YOUCEF 
+00800898001198000002679980011                                  COUR DES COMPTES                                                   19, RUE RABAH MIDAT 
+00800898001198000002776980011          CENTRE ARTS ET DE CULTUR PALAIS DES RAIS                                             23, BD AMARA RACHID B.E.O 
+00800898001198000002873980011                                    CONSEIL D'ETAT                                                19, RUE MUSTAPHA OUALI 
+00800898001198000002970980011                    ECOLE SUPERIEUR DES BEAUX ARTS                                                      BD KRIM BELKACEM 
+00800898001198000003067980011           ECOLE NLE DE MANAGE ET ADMI DE LA SANTE                                               EL MARSA BORDJ EL BAHRI 
+00800898001198000003164980011                 ECOLE NLE DE LA PROTECTION CIVILE                                                  BORDJ EL BAHRI ALGER 
+00800898001198000003261980011                 ECOLE NLE SUP DES TRAVAUX PUBLICS                                  RUE ST CHARLES PROLONGEE VIEUX KOUBA 
+00800898001198000003358980011                       ECOLE NLE DES TRANSMISSIONS                                            16, RUE HALLES EL MOURADIA 
+00800898001198000003552980011          I.N DE LA POSTE ET TECH DE L'INF ET COMM                                           ROUTE DE L'ARBAA EUCALYPTUS 
+00800898001198000003746980011          INS SUP METIERS DES ARTS DU SPCLE ET AUD                                           03, RUE LARBI TEBESSI B.E.K 
+00800898001198000003940980011                INST NL DE LA MEDECINE VETERINAIRE                                       BP N?125 HACENE BADI EL HARRACH 
+00800898001198000004037980011          INS.NL.DE FORM.SUP.DE CDR DE LA JEUNESSE                                 MADANI SOUAHI TIXERAINE BP N?41 B.M.R 
+00800898001198000004134980011          E.N.SUP.SC DE LA MER ET AMENAG DU LITTOR                                             CAMPUS UNIVER DELY BRAHIM 
+00800898001198000004231980011                INST DE TECHNOLOGIE MOYEN AGRICOLE                                               JARDIN D'ESSAI EL HAMMA 
+00800898001198000004328980011              INST NL DE LA VULGARISATION AGRICOLE                                                  BP N?42 SAID HAMDINE 
+00800898001198000004425980011              INST NL PEDAG DE FORMAT PARAMEDICALE                                             CHEMIN VAUBAN HUSSEIN DEY 
+00800898001198000004522980011                         ECOLE NLE SUP AGRONOMIQUE                                            AVE HACENE BADI EL HARRACH 
+00800898001198000004619980011                               INFS/STS AIN BENIAN                                    BP N?117 CITE BELLE VUE AIN BENIAN 
+00800898001198000004716980011             ECOLE NLE SUP SCIENCE  TECH DE SPORT                                                  BP N?71 EL BIAR 16030 
+00800898001198000004910980011              INS NL DE LA PROTECTION DES VEGETAUX                                         BP N?80 HACEN BADI EL HARRACH 
+00800898001198000005007980011           CENTRE NL EXPER MEDIC DU PERSO NAVIGANT                                                       BP N? 325 KOUBA 
+00800898001198000005104980011              LABO NL CONTROLE DES PRODUITS PHARMA                                 LOT GERAUD PETIT STAOUELI DELY BRAHIM 
+00800898001198000005201980011                       MUSEE NATIONAL DU MOUDJAHID                                              RIADH EL FETH EL MADANIA 
+00800898001198000005395980011            MUSEE PUBLIQUE NATIONAL DES BEAUX ARTS                                      178, RUE MED BELOUIZDAD EL HAMMA 
+00800898001198000005492980011          MUSEE NL DES ARTS ET TRADITIONS POPULAIR                                   09, RUE MED AKLI MALEK BASSE CASBAH 
+00800898001198000005589980011              MUSEE PUBLIC NATIONAL DES ANTIQUITES                                                 177, BD KRIM BELKACEM 
+00800898001198000005783980011               OFFICE NL DE SIGNALISATION MARITIME                                              06, BD COLONEL AMIROUCHE 
+00800898001198000005880980011                       OFFICE NATIONAL DU TOURISME                                       02, RUE ISMAIL KERRAR PORT SAID 
+00800898001198000005977980011                    OFFICE NL DE METROLOGIE LEGALE                                               38, RUE MED RABIA KOUBA 
+00800898001198000006074980011                  OFFICE NATIONAL DES STATISTIQUES                                         08 ET 10 RUE DES MOUSSEBILINE 
+00800898001198000006171980011          INS NL DES SOLS ET DE L'IRRI ET DU DRAIN                                         BP N?148 OUED SMAR EL HARRACH 
+00800898001198000006365980011              INST NL D'ETUDE DE STRATEGIE GLOBALE                                38, RUE HASSEN IBN NAAMANE LES VERGERS 
+00800898001198000006462980011             CENTRE ALG DU CONTROLE DE QUALI D'EMB                                            ROUTE NLE N?05 BAB EZZOUAR 
+00800898001198000006656980011                      INST.NL.DE LA SANTE PUBLIQUE                                            04, CHEMIN EL BAKR EL BIAR 
+00800898001198000006753980011                         RESIDENCE DES MAGISTRATS                                    06 RUE 11 DECEMBRE 1960 BEN AKNOUNE 
+00800898001198000006850980011                   CAISSE DES RETRAITES MILITAIRES                                         01, RUE BACHIR ATTAR BELCOURT 
+00800898001198000006947980011                     ECOLE MILITAIRE POLYTECHNIQUE                                               BP N? 17 BORDJ EL BAHRI 
+00800898001198000007238980011               ECO DES HAUTES ETU COMMERC (EX INC)                                  11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001198000012767980011          OFFICE.NL.D'ALPHAB.ET D'ENS.POUR ADULTES                                 37, CHEMIN CHEIKH EL IBRAHIMI EL BIAR 
+00800898001198000012961980011          ECOLE POLY D'ARCHITECTURE ET D'URBANISME                                  ROUTE DE BEAULIEU BP:177  EL-HARRACH 
+00800898001198000013058980011          OFFICE.NL.D'ENS.ET DE FORMAT. A DISTANCE                                                43 RUE BENCHENEB ALGER 
+00800898001198000013155980011                       ECOLE NLE SUP. INFORMATIQUE                                                  BP N? 68 M OUED SMAR 
+00800898001198000013252980011           INSTITUT NATIONAL SUPERIEUR DE MUSIQUE                                                AVENUE DU 1ER NOVEMBRE  
+00800898001198000013446980011            ECOLE NLE SUP EN STAT ET ECO APPLIQUEE                                  11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001198000013543980011          INST.NLE.FORM.PERFEC.PERS.DE L'EDUCATION                                  04, RUE OULED SIDI CHEIKH EL HARRACH 
+00800898001198000013640980011                        ECOLE NLE D'ADMINISTARTION                                  13, CHEMIN ABDELKADER GADOUCHE HYDRA 
+00800898001198000013737980011                                 I.N.E.S.MEDICALES                                                                       
+00800898001198000013834980011            CTR.RECH.SCIENT.TECH.EN ANALY.PHY-CHIM                                                    BP N? 248 ALGER RP 
+00800898001198000013931980011             OFFICE NLE DES OEUVRES UNIVERSITAIRES                               RESID UNIV TALEB A.RAHMANE 1 BEN AKNOUN 
+00800898001198000014028980011                              E.N.P.E D'INGENIORAT                                                       BP N? 05 ROUIBA 
+00800898001198000015483980011                 OFFICE NL DES EXAMENS ET CONCOURS                                 03, RUE DU PROFESSEUR VINCENT TELEMLY 
+00800898001198000015968980011                  UNIVERSITE DE FORMATION CONTINUE                                  RUE AHMED OUAKED BP N?41 DELY BRAHIM 
+00800898001198000016744980011             CTRE NL DEVELOPP RESSOURCE BIOLOGIQUE                                          11 RUE MOHAMED TAZAIRT B.E.O 
+00800898001198000017132980011           INSTITUT ALG DES ENERGIES RENOUVELABLES                                        HASSI R'MEL WILAYA DE LAGHOUAT 
+00800898001198000017229980011           LA CHAMBRE NLE DE L'ARTISANAT & METIERS                                  BP 73 SIDI FREDJ, STAOUALI - ALGER - 
+00800898001198000017326980011              ECOLE NLE DES PERSONNELS DES GREFFES                       BP 61 Annexe du 05 Juillet Bab Ezzouar -ALGER-  
+00800898001198000017423980011           CENTRE DE RECHERCHE JURIDIQUE JUDICIERE                                               BD TELA HASSENE CHERAGA 
+00800898001198000017520980011                         CENTRE CULTUREL ISLAMIQUE                                    12, RUE  ALI BOUMENDJEL  - alger - 
+00800898001198000017617980011                  CENTRE ALG DE LA CINEMATOGRAPHIE                                              49, RUE LARBI BEN M'HIDI 
+00800898001198000017714980011           ECO NLE SUP JOURNALISME SCES DE L' INFO                                 11.CHEMIN DOUDOU MOKHTAR -BEN AKNOUN- 
+00800898001198000017811980011              CELLULE TRAITEMENT RENSEI FINANCIER                                           SIEGE MINISTERE DES FINANCES 
+00800898001198000017908980011                     ECOLE NLE SUP DE TECHNOLOGIE                               ROUTE Nle N? 05 ZONE INDUSTRIELLE ROUIBA 
+00800898001198000018005980011                 INSTI TECH  CULT MARICHAI ET INDU                                                      BP N?50 STAOUELI 
+00800898001198000018102980011                    CENTRE NATIONAL DE TOXICOLOGIE                                          BD SAID TOUATI B.E.O -ALGER- 
+00800898001198000018587980011                    COMMISSARIAT NLE  DU LITTORAL                                                30 RUE MED FELLAH KOUBA 
+00800898001198000019266980011          AGENC NLE A L'AMENAG  A L'ATTRACT TERRIT                                        30.AV MOHAMED FELLAH - KOUBA - 
+00800898001198000019363980011                  MUSEE PUBLICS  NATIONAL MARITIME                                                  BASTION 23 MAISON 13 
+00800898001198000019557980011              ECOLE NLE SUP DE SCIENCES POLITIQUES                                  11, CHEMIN DOUDOU MOKHTAR BEN AKNOUN 
+00800898001198000019751980011              AGENCE THEMAT DE RECH EN SCI ET TEC                                     AVE PASTEUR HACENE BADI EL HARRACH 
+00800898001198000019848980011              ECOLE NATIONAL SUPERIEUR DU TOURISME                                          01 BD FRANT FANON EL AURASSI 
+00800898001198000019945980011                              PALAIS DE LA CULTURE                                         PALAIS DE LA CULTURE ANASSERS 
+00800898001198000020139980011                  CENTRE NL DE PHARMACOV ET MATERI                                        INSTITUT PASTEUR CHERAGA ALGER 
+00800898001198000020527980011                                SERVICE DES ALCOLS                                      25 RUE MOHAMED BELOUIZDAD ALGER  
+00800898001198000021012980011                       ECOLE NLE SUP DE MANAGEMENT                                               37 RUE LARBI BEN M'HIDI 
+00800898001198000021303980011            CENTRE NTL PREVENTION SECURIT ROUTIERE                                  RUE FRERE MOKHTARI HUSSEIN DEY ALGER 
+00800898001198000021788980011                  CENTRE NL DES PERMIS DE CONDUIRE                                                    ROUTE N? 05 ROUIBA 
+00800898001198000021885980011                INSTITUT NL SUP DE PECHE ET AQUACU                                       03 AVENUE DE L'A.L.N ALGER PORT 
+00800898001198000021982980011          MUS.PUB.NAT.ENLUMINURE.MINIAT.CALLIGRAPH                                12 RUE DES FRERES MECHRI -BASE CASBAH- 
+00800898001198000022079980011           AGENCE.NLE.DES CHANGEMENTS  CLIMATIQUES                                    30 AVENUE MOHAMED FELLAH - KOUBA - 
+00800898001198000022273980011          ECO.NL.DES SPORTS NAUTIQ ET SUBAQUATIQUE                        RUE PRINCIPALE N?40 ALGER PLAGE-BORDJ EL BAHRI 
+00800898001198000022370980011            MUS.PUB.NL.D'ART.MODER.ET CONTEMPORAIN                                       25 RUE LARBI BEN M'HIDI -ALGER- 
+00800898001198000022467980011          L'AUTORITE DE REGULARI.DE L'AUDIO-VISUEL                                       117, rue Didouche Mourad  ALGER 
+00800898001198000022564980011          ORG .NLE.PREV.LUTTE CONTRE INFRAC.AUX T                                              09 RUE ABOU NOUASSE HYDRA 
+00800898001198000022661980011          L'ORGANE NTL PEVET? LUTTE CONTRE CORRUPT                                                                       
+00800898001198000022758980011          CEN NATI DE REGRO ET DE PREPA DES TALENT                                                                       
+00800898001198000022855980011          OFF.NTLE .LUTTE CONTRE .DROGUE & TOXICOM                                           06 AVENUE DE L'INDEPANDANCE 
+00800898001198000022952980011            HAUTE INST. INDEPEND.SURVEIL.ELECTIONS                               VILLA RAIS HAMIDOU - AL MADANIA - ALGER 
+00800898001198000023049980011          Autorit? Gouvernem. Certifi.Electronique                                      cyber parc sidi abdallah -Alger- 
+00800898001198000023146980011                   Agence Nle de Developpement PME                       Route Nle n?24 lot 570 Pins Maritimes Mohamadia 
+00800898001198000023243980011          LAB.NL.CONTROL.ANALYSE.PRD.PCHE.ACQU.SAL                                              RUE COLE BERT EL DJAMILA 
+00800898001198000023340980011           AGENCE NLE DES PRODUITS PHARMACEUTIQUES                      Lot Geraud Petit Staouali Dely Brahim - cheraga- 
+00800898001198000036629980011                                                                                                                         
+00800898001298000000152980012           CAISSE NLE D'EPARGNE ,PREVOYANCE BANQUE                                     42 RUE KHALIFA BOUKHALFA    ALGER 
