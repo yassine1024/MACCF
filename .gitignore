@@ -2,6 +2,8 @@ HELP.md
 target/
 CorpusTw/
 FichiersGlobales/
+MaccLog.log.lck
+classes/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
