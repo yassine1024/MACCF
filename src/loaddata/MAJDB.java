@@ -171,7 +171,7 @@ public class MAJDB {
 			ps = Parametrage.Connection.prepareStatement(req);
 			ps.executeUpdate();
 			
-			req = "INSERT INTO MONTANT_BLOQUER" + 
+			req = "INSERT INTO solde_bloquer" +
 					"	SELECT * FROM temporary_MONTANT_BLOQUER" + 
 					"	ON DUPLICATE KEY UPDATE " + 
 					"	NUM_CPT = VALUES(NUM_CPT)," + 
