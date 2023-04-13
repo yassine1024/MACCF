@@ -120,15 +120,15 @@ public class MAJDB {
 		
 		ps = Parametrage.Connection.prepareStatement(req);
 		ps.executeUpdate();
-		
+
 		req = "INSERT INTO COMPTE_BLOQUER" + 
 				"	SELECT * FROM temporary_COMPTE_BLOQUER" + 
 				"	ON DUPLICATE KEY UPDATE " + 
-				/*"	NUM_CPT = VALUES(NUM_CPT)," + 
-				"	DT_BLOC = VALUES(DT_BLOC)," + */
-				"	DT_DEBLOC = VALUES(DT_DEBLOC)" + 
-				/*"	MOTIF_BLOC = VALUES(MOTIF_BLOC)," + 
-				"	MT_OBJET_BLOC = VALUES(MT_OBJET_BLOC)" + */
+				"	NUM_CPT = VALUES(NUM_CPT)," +
+				"	DT_BLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_BLOC), '%d-%b-%y'), '%Y-%m-%d')," +
+				"	DT_DEBLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_DEBLOC), '%d-%b-%y'), '%Y-%m-%d')" +
+				"	MOTIF_BLOC = VALUES(MOTIF_BLOC)," +
+				"	MT_OBJET_BLOC = VALUES(MT_OBJET_BLOC)" +
 				"	;" ;
 		
 		ps = Parametrage.Connection.prepareStatement(req);
@@ -170,15 +170,15 @@ public class MAJDB {
 			
 			ps = Parametrage.Connection.prepareStatement(req);
 			ps.executeUpdate();
-			
+
 			req = "INSERT INTO solde_bloquer" +
 					"	SELECT * FROM temporary_MONTANT_BLOQUER" + 
 					"	ON DUPLICATE KEY UPDATE " + 
 					"	NUM_CPT = VALUES(NUM_CPT)," + 
-					"	DT_BLOC = VALUES(DT_BLOC)," + 
+					"	DT_BLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_BLOC), '%d-%b-%y'), '%Y-%m-%d')," +
 					"	MT_BLOC = VALUES(MT_BLOC)," + 
 					"	MOTIF_BLOC = VALUES(MOTIF_BLOC)," +
-					"	DT_DEBLOC = VALUES(DT_DEBLOC)," + 
+					"	DT_DEBLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_DEBLOC), '%d-%b-%y'), '%Y-%m-%d')," +
 					"	MT_DEBLOC = VALUES(MT_DEBLOC)," +
 					"	MOTIF_DEBLOC = VALUES(MOTIF_DEBLOC)," + 
 					"	SI_CERTIF = VALUES(SI_CERTIF)" + 						
@@ -229,7 +229,7 @@ public class MAJDB {
 			
 			ps = Parametrage.Connection.prepareStatement(req);
 			ps.executeUpdate();
-			
+
 			req = "INSERT INTO MOUVEMENT" + 
 					"	SELECT * FROM temporary_MOUVEMENT" + 
 					"	ON DUPLICATE KEY UPDATE " + 
@@ -242,9 +242,9 @@ public class MAJDB {
 					"	MOIS_OPER = VALUES(MOIS_OPER)," + 
 					"	MT_DEBIT = VALUES(MT_DEBIT)," + 
 					"	NUM_CPT = VALUES(NUM_CPT)," + 
-					"	DT_OPER = VALUES(DT_OPER)," + 
+					"	DT_OPER = DATE_FORMAT(STR_TO_DATE(VALUES(DT_OPER), '%d-%b-%y'), '%Y-%m-%d')," +
 					"	SI_ANNULE = VALUES(SI_ANNULE)," + 
-					"	DT_ANNUL = VALUES(DT_ANNUL)," + 
+					"	DT_ANNUL = DATE_FORMAT(STR_TO_DATE(VALUES(DT_ANNUL), '%d-%b-%y'), '%Y-%m-%d')," +
 					"	MT_OPER = VALUES(MT_OPER)" + 
 					"	;" ;
 			
