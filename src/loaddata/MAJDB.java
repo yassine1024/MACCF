@@ -42,7 +42,7 @@ public class MAJDB {
 		ps = Parametrage.Connection.prepareStatement(req);
 		ps.executeUpdate();
 		
-		req ="LOAD DATA INFILE '"+Path+"'" + 
+		req ="LOAD DATA LOCAL INFILE '"+Path+"'" +
 				"	INTO TABLE temporary_CLIENT" + 
 				"	FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY ''" + 
 				"	(NUM_CPT," + 
@@ -107,7 +107,7 @@ public class MAJDB {
 		ps = Parametrage.Connection.prepareStatement(req);
 		ps.executeUpdate();
 		
-		req ="LOAD DATA INFILE '"+Path+"'" + 
+		req ="LOAD DATA LOCAL INFILE '"+Path+"'" +
 				"	INTO TABLE temporary_COMPTE_BLOQUER" + 
 				"	FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY ''" + 
 				"	(NUM_CPT," + 
@@ -154,7 +154,7 @@ public class MAJDB {
 			ps = Parametrage.Connection.prepareStatement(req);
 			ps.executeUpdate();
 			
-			req ="LOAD DATA INFILE '"+Path+"'" + 
+			req ="LOAD DATA LOCAL INFILE '"+Path+"'" +
 					"	INTO TABLE temporary_MONTANT_BLOQUER" + 
 					"	FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY ''" + 
 					"	(NUMLIGNE," + 
@@ -209,7 +209,7 @@ public class MAJDB {
 			ps = Parametrage.Connection.prepareStatement(req);
 			ps.executeUpdate();
 			
-			req ="LOAD DATA INFILE '"+Path+"'" + 
+			req ="LOAD DATA LOCAL INFILE '"+Path+"'" +
 					"	INTO TABLE temporary_MOUVEMENT" + 
 					"	FIELDS TERMINATED BY '|' OPTIONALLY ENCLOSED BY ''" + 
 					"	(CODE_OPER," + 
