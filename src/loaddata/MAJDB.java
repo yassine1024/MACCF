@@ -149,7 +149,7 @@ public class MAJDB {
 
         Traitement.logger.info("*************************************BEGIN LOAD MONTANT BLOQUER*************************************");
 
-        String req = "CREATE TEMPORARY TABLE temporary_MONTANT_BLOQUER LIKE MONTANT_BLOQUER;";
+        String req = "CREATE TEMPORARY TABLE temporary_MONTANT_BLOQUER LIKE SOLDE_BLOQUER;";
         PreparedStatement ps = Parametrage.Connection.prepareStatement(req);
         ps.executeUpdate();
 
@@ -174,14 +174,17 @@ public class MAJDB {
         ps = Parametrage.Connection.prepareStatement(req);
         ps.executeUpdate();
 
-        req = "INSERT INTO solde_bloquer" +
-                "	SELECT * FROM temporary_MONTANT_BLOQUER" +
+        req = "INSERT INTO solde_bloquer(NUMLIGNE,NUM_CPT,DT_BLOC,MT_BLOC,MOTIF_BLOC,DT_DEBLOC, MT_DEBLOC, MOTIF_DEBLOC, SI_CERTIF)" +
+                "	SELECT NUMLIGNE, NUM_CPT, DATE_FORMAT(STR_TO_DATE(DT_BLOC, '%d-%b-%y'), '%Y-%m-%d')," +
+                " MT_BLOC, MOTIF_BLOC, " +
+                " DATE_FORMAT(STR_TO_DATE(DT_DEBLOC, '%d-%b-%y'), '%Y-%m-%d'), " +
+                "MT_DEBLOC, MOTIF_DEBLOC, SI_CERTIF FROM temporary_MONTANT_BLOQUER" +
                 "	ON DUPLICATE KEY UPDATE " +
                 "	NUM_CPT = VALUES(NUM_CPT)," +
-                "	DT_BLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_BLOC), '%d-%b-%y'), '%Y-%m-%d')," +
+                "	DT_BLOC = DATE_FORMAT(STR_TO_DATE(temporary_MONTANT_BLOQUER.DT_BLOC, '%d-%b-%y'), '%Y-%m-%d')," +
                 "	MT_BLOC = VALUES(MT_BLOC)," +
                 "	MOTIF_BLOC = VALUES(MOTIF_BLOC)," +
-                "	DT_DEBLOC = DATE_FORMAT(STR_TO_DATE(VALUES(DT_DEBLOC), '%d-%b-%y'), '%Y-%m-%d')," +
+                "	DT_DEBLOC = DATE_FORMAT(STR_TO_DATE(temporary_MONTANT_BLOQUER.DT_DEBLOC, '%d-%b-%y'), '%Y-%m-%d')," +
                 "	MT_DEBLOC = VALUES(MT_DEBLOC)," +
                 "	MOTIF_DEBLOC = VALUES(MOTIF_DEBLOC)," +
                 "	SI_CERTIF = VALUES(SI_CERTIF)" +
@@ -233,8 +236,13 @@ public class MAJDB {
         ps = Parametrage.Connection.prepareStatement(req);
         ps.executeUpdate();
 
-        req = "INSERT INTO MOUVEMENT" +
-                "	SELECT * FROM temporary_MOUVEMENT" +
+        req = "INSERT INTO MOUVEMENT(CODE_OPER,NUM_CPT_G,CODE_NAT,AN_GEST,MT_CREDIT,JOUR_OPER,MOIS_OPER,MT_DEBIT,NUM_CPT," +
+                "SI_ANNULE,MT_OPER, DT_OPER, DT_ANNUL )" +
+                "	SELECT CODE_OPER,NUM_CPT_G,CODE_NAT,AN_GEST,MT_CREDIT,JOUR_OPER,MOIS_OPER,MT_DEBIT,NUM_CPT," +
+                "   SI_ANNULE,MT_OPER," +
+                "DATE_FORMAT(STR_TO_DATE(DT_OPER, '%d-%b-%y'), '%Y-%m-%d'), " +
+                "DATE_FORMAT(STR_TO_DATE(DT_ANNUL, '%d-%b-%y'), '%Y-%m-%d') " +
+                " FROM temporary_MOUVEMENT" +
                 "	ON DUPLICATE KEY UPDATE " +
                 "	CODE_OPER = VALUES(CODE_OPER)," +
                 "	NUM_CPT_G = VALUES(NUM_CPT_G)," +
@@ -245,9 +253,9 @@ public class MAJDB {
                 "	MOIS_OPER = VALUES(MOIS_OPER)," +
                 "	MT_DEBIT = VALUES(MT_DEBIT)," +
                 "	NUM_CPT = VALUES(NUM_CPT)," +
-                "	DT_OPER = DATE_FORMAT(STR_TO_DATE(VALUES(DT_OPER), '%d-%b-%y'), '%Y-%m-%d')," +
+                "	DT_OPER = DATE_FORMAT(STR_TO_DATE(temporary_MOUVEMENT.DT_OPER, '%d-%b-%y'), '%Y-%m-%d')," +
                 "	SI_ANNULE = VALUES(SI_ANNULE)," +
-                "	DT_ANNUL = DATE_FORMAT(STR_TO_DATE(VALUES(DT_ANNUL), '%d-%b-%y'), '%Y-%m-%d')," +
+                "	DT_ANNUL = DATE_FORMAT(STR_TO_DATE(temporary_MOUVEMENT.DT_ANNUL, '%d-%b-%y'), '%Y-%m-%d')," +
                 "	MT_OPER = VALUES(MT_OPER)" +
                 "	;";
 
