@@ -287,12 +287,15 @@ public class MAJDB {
         ResultSet resultSet = ps.executeQuery();
 
         while (resultSet.next()) {
-            Message m = new Message();
-            m.setMsg(resultSet.getString("MSG"));
-            m.setDESTINATAIRE(resultSet.getString("DESTINATAIRE"));
+            String destinataire=resultSet.getString("DESTINATAIRE");
+            if(destinataire!=null && !destinataire.equals("") ) {
+                Message m = new Message();
+                m.setMsg(resultSet.getString("MSG"));
+                m.setDESTINATAIRE(destinataire);
 
 
-            MSGS.add(m);
+                MSGS.add(m);
+            }
 
         }
 
