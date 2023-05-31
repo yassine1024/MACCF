@@ -1,5 +1,6 @@
 package loaddata;
 
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -18,11 +19,40 @@ public class MAJDB {
 
     public MAJDB(String PathClient, String PathCompteBloquer, String PathMontantBloquer, String PathMouvement) throws SQLException, AddressException, MessagingException {
         Traitement.logger.info("*************************************BEGIN LOAD DATA*************************************");
+        Message message = new Message() ;
 
-        LoadFileClient(PathClient);
-        LoadFileCompteBloquer(PathCompteBloquer);
-        LoadFileMontantBloquer(PathMontantBloquer);
-        LoadFileMouvement(PathMouvement);
+        try {
+            LoadFileClient(PathClient);
+        }catch (SecurityException   | SQLException  e)
+        {
+            Traitement.logger.warning(e.getMessage());
+            message.setMsg("LE MACC A RENCONTRER UNE ERREUR L'AURE DE SANS EXECUTION, VOICI LE MESSAGE D'ERREUR : \n"+e.getMessage());
+
+        }
+        try {
+            LoadFileCompteBloquer(PathCompteBloquer);
+        }catch (SecurityException   | SQLException  e)
+        {
+            Traitement.logger.warning(e.getMessage());
+            message.setMsg("LE MACC A RENCONTRER UNE ERREUR L'AURE DE SANS EXECUTION, VOICI LE MESSAGE D'ERREUR : \n"+e.getMessage());
+
+        }
+        try {
+            LoadFileMontantBloquer(PathMontantBloquer);
+        }catch (SecurityException   | SQLException  e)
+        {
+            Traitement.logger.warning(e.getMessage());
+            message.setMsg("LE MACC A RENCONTRER UNE ERREUR L'AURE DE SANS EXECUTION, VOICI LE MESSAGE D'ERREUR : \n"+e.getMessage());
+
+        }
+        try {
+            LoadFileMouvement(PathMouvement);
+        }catch (SecurityException   | SQLException  e)
+        {
+            Traitement.logger.warning(e.getMessage());
+            message.setMsg("LE MACC A RENCONTRER UNE ERREUR L'AURE DE SANS EXECUTION, VOICI LE MESSAGE D'ERREUR : \n"+e.getMessage());
+
+        }
 
         Traitement.logger.info("*************************************END LOAD DATA*************************************");
 
