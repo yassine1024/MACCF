@@ -303,7 +303,7 @@ public class MAJDB {
         List<Message> MSGS = MSGS();
 
         for (Message m : MSGS) {
-            Mail.EnvoyerMail(m);
+            Mail.EnvoyerMail(m,"USER");
         }
     }
 

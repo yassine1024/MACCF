@@ -50,7 +50,7 @@ public class Launch {
 			message.setDESTINATAIRE(s);
 			try 
 			{
-				Mail.EnvoyerMail(message);
+				Mail.EnvoyerMail(message,"ADMIN");
 			} 
 			catch (MessagingException e) 
 			{
