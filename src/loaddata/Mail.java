@@ -72,13 +72,14 @@ public class Mail {
                         "Si vous avez des questions ou des préoccupations concernant votre compte" +
                         " de dépôt de fonds, n'hésitez pas à nous contacter à l'adresse \"contact.dgtc@mf.gov.dz\"\n" +
                         "Cordialement" + "\n" +
-                        "El_Racid";
+                        "El_Racid" + "\n" +
+                        "Trésor public";
             } else {
                 message.setSubject("INFORMATION");
                 emailContent += m.getMsg() + " \n\n" +
                         "Cordialement" + "\n" +
-                        "El_Racid";
-
+                        "El_Racid" + "\n" +
+                        "Trésor public";
             }
 
             message.setSentDate(new Date());
